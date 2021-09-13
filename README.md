@@ -1,3 +1,5 @@
+[>> 日本語版はこちら 🗾🇯🇵](https://github.com/Asuimin/dream-database/blob/main/README-ja-jp.md)
+
 # Dream Database 💤
 dream database
 
