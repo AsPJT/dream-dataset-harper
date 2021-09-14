@@ -23,3 +23,9 @@ However, no dreams have been recorded during the subsequent 2008, 2010-2012 peri
 Let's calculate the dream diary history from the first day when you start to continue the dream diary. It was December 6, 2015 that I started writing a dream diary more than once a month. Starting from this day, it's been five and a half years since I started keeping a dream diary. It's longer than I expected.
 
 In summary, the dream diary history is five and a half years in the narrow sense and 14 years in the broadest sense.
+
+# About the music that played in my dream 🎵
+
+I sometimes have music playing in my dreams. I categorize the music that plays in my dreams into two types. One is music that I know, and the other is music that I don't know. I can understand that the music I know is stored in my brain, but where does the music I don't know come from?
+
+I have compiled the unknown songs played in my dream as music score data. The score data is available in musicxml format. [Please feel free to send me an issue if you have any other data format that you would like to see.](https://github.com/Asuimin/dream-database/issues)
