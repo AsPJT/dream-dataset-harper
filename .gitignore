@@ -1,2 +1,6 @@
 .mscbackup/
+History/
 *.mscx,
+*.song.autosave
+*.song
+*.autosave
