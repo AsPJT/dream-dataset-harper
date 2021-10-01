@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-09-16</encoding-date>
+      <encoding-date>2021-10-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -63,7 +63,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="537.92">
+    <measure number="1" width="547.92">
       <print>
         <system-layout>
           <system-margins>
@@ -76,7 +76,7 @@
       <attributes>
         <divisions>2</divisions>
         <key>
-          <fifths>-3</fifths>
+          <fifths>-5</fifths>
           </key>
         <time>
           <beats>4</beats>
@@ -96,7 +96,7 @@
           </direction-type>
         <sound tempo="240"/>
         </direction>
-      <note default-x="122.34" default-y="-55.00">
+      <note default-x="142.34" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -106,12 +106,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>
         </note>
-      <note default-x="219.70" default-y="-55.00">
+      <note default-x="237.35" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -121,12 +121,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>
         </note>
-      <note default-x="317.06" default-y="-60.00">
+      <note default-x="332.36" default-y="-60.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -136,12 +136,12 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>na</text>
           </lyric>
         </note>
-      <note default-x="377.91" default-y="-55.00">
+      <note default-x="391.74" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -151,12 +151,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>
         </note>
-      <note default-x="475.27" default-y="-55.00">
+      <note default-x="486.74" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -170,13 +170,13 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="440.65">
+    <measure number="2" width="430.65">
       <note default-x="16.50" default-y="-55.00">
         <pitch>
           <step>B</step>
@@ -192,7 +192,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="76.10" default-y="-55.00">
+      <note default-x="74.63" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -202,12 +202,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>
         </note>
-      <note default-x="171.47" default-y="-55.00">
+      <note default-x="167.64" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -217,12 +217,12 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>na</text>
           </lyric>
         </note>
-      <note default-x="231.07" default-y="-60.00">
+      <note default-x="225.78" default-y="-60.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -232,12 +232,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>
         </note>
-      <note default-x="326.44" default-y="-55.00">
+      <note default-x="318.79" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -247,7 +247,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-65.21" relative-y="-30.00">
+        <lyric number="1" default-x="6.50" default-y="-65.10" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>nai</text>
           </lyric>

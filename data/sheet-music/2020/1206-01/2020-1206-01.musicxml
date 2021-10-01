@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-09-15</encoding-date>
+      <encoding-date>2021-10-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -63,7 +63,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="527.82">
+    <measure number="1" width="544.20">
       <print>
         <system-layout>
           <system-margins>
@@ -76,7 +76,7 @@
       <attributes>
         <divisions>1</divisions>
         <key>
-          <fifths>0</fifths>
+          <fifths>3</fifths>
           </key>
         <time>
           <beats>4</beats>
@@ -89,14 +89,14 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-x="-41.18" relative-y="20.00">
+          <metronome parentheses="no" default-x="-34.18" relative-y="20.00">
             <beat-unit>half</beat-unit>
             <per-minute>90</per-minute>
             </metronome>
           </direction-type>
         <sound tempo="180"/>
         </direction>
-      <note default-x="84.22" default-y="-55.00">
+      <note default-x="116.98" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -106,7 +106,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="194.67" default-y="-60.00">
+      <note default-x="223.34" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -116,7 +116,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="305.12" default-y="-45.00">
+      <note default-x="329.69" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -126,7 +126,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="415.57" default-y="-55.00">
+      <note default-x="436.05" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -137,7 +137,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="2" width="450.75">
+    <measure number="2" width="434.37">
       <note default-x="16.50" default-y="-60.00">
         <pitch>
           <step>A</step>
@@ -148,7 +148,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="131.89" default-y="-55.00">
+      <note default-x="127.34" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>

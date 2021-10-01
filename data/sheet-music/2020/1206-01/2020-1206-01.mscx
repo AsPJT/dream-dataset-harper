@@ -154,7 +154,7 @@
             <transposingClefType>G</transposingClefType>
             </Clef>
           <KeySig>
-            <accidental>0</accidental>
+            <accidental>3</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
@@ -163,7 +163,7 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
