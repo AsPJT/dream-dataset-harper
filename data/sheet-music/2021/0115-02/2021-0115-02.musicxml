@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-09-16</encoding-date>
+      <encoding-date>2021-10-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -63,7 +63,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="511.84">
+    <measure number="1" width="526.72">
       <print>
         <system-layout>
           <system-margins>
@@ -76,7 +76,7 @@
       <attributes>
         <divisions>2</divisions>
         <key>
-          <fifths>0</fifths>
+          <fifths>2</fifths>
           </key>
         <time>
           <beats>4</beats>
@@ -96,7 +96,7 @@
           </direction-type>
         <sound tempo="200"/>
         </direction>
-      <note default-x="84.22" default-y="-55.00">
+      <note default-x="113.98" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -119,7 +119,7 @@
           <text>m</text>
           </lyric>
         </note>
-      <note default-x="145.48" default-y="-55.00">
+      <note default-x="173.10" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -142,7 +142,7 @@
           <text>i</text>
           </lyric>
         </note>
-      <note default-x="206.74" default-y="-55.00">
+      <note default-x="232.22" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -165,7 +165,7 @@
           <text>nu</text>
           </lyric>
         </note>
-      <note default-x="268.00" default-y="-55.00">
+      <note default-x="291.34" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -188,7 +188,7 @@
           <text>s</text>
           </lyric>
         </note>
-      <note default-x="329.26" default-y="-55.00">
+      <note default-x="350.46" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -210,7 +210,7 @@
           <text>chick</text>
           </lyric>
         </note>
-      <note default-x="390.52" default-y="-60.00">
+      <note default-x="409.58" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -234,7 +234,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="466.73">
+    <measure number="2" width="451.85">
       <note default-x="22.06" default-y="-60.00">
         <pitch>
           <step>A</step>
@@ -258,7 +258,7 @@
           <text>m</text>
           </lyric>
         </note>
-      <note default-x="83.32" default-y="-60.00">
+      <note default-x="81.18" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -281,7 +281,7 @@
           <text>i</text>
           </lyric>
         </note>
-      <note default-x="144.59" default-y="-60.00">
+      <note default-x="140.30" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -304,7 +304,7 @@
           <text>nu</text>
           </lyric>
         </note>
-      <note default-x="205.85" default-y="-60.00">
+      <note default-x="199.42" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -327,7 +327,7 @@
           <text>s</text>
           </lyric>
         </note>
-      <note default-x="267.11" default-y="-60.00">
+      <note default-x="258.54" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -349,7 +349,7 @@
           <text>chick</text>
           </lyric>
         </note>
-      <note default-x="328.37" default-y="-55.00">
+      <note default-x="317.66" default-y="-55.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
