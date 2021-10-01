@@ -175,7 +175,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>20200426 No.01</text>
+          <text>2020/04/26 No.01</text>
           </Text>
         </VBox>
       <Measure>
@@ -193,17 +193,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>man</text>
               </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Lyrics>
-              <text>te</text>
+              <text>まん</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -213,7 +207,25 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
+              <text>te</text>
+              </Lyrics>
+            <Lyrics>
+              <text>て</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <no>1</no>
               <text>n</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ん</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -227,17 +239,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>man</text>
               </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Lyrics>
-              <text>te</text>
+              <text>まん</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -247,7 +253,25 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
+              <text>te</text>
+              </Lyrics>
+            <Lyrics>
+              <text>て</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <no>1</no>
               <text>n</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ん</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -261,17 +285,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>man</text>
               </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Lyrics>
-              <text>te</text>
+              <text>まん</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -281,7 +299,25 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
+              <text>te</text>
+              </Lyrics>
+            <Lyrics>
+              <text>て</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <no>1</no>
               <text>n</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ん</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -296,17 +332,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>man</text>
               </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Lyrics>
-              <text>te</text>
+              <text>まん</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -316,7 +346,25 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
+              <text>te</text>
+              </Lyrics>
+            <Lyrics>
+              <text>て</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <no>1</no>
               <text>n</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ん</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>

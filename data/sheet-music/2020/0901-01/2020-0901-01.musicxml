@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-09-12</encoding-date>
+      <encoding-date>2021-10-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -107,9 +107,13 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pan</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱん</text>
           </lyric>
         </note>
       <note default-x="197.01" default-y="-50.00">
@@ -121,9 +125,13 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pan</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱん</text>
           </lyric>
         </note>
       </measure>
@@ -137,9 +145,13 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pan</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱん</text>
           </lyric>
         </note>
       <note default-x="138.24" default-y="-50.00">
@@ -151,9 +163,13 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pan</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱん</text>
           </lyric>
         </note>
       </measure>
@@ -167,9 +183,13 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pan</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱん</text>
           </lyric>
         </note>
       <note default-x="133.96" default-y="-35.00">
@@ -181,9 +201,13 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pa</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱ</text>
           </lyric>
         </note>
       <note default-x="203.96" default-y="-35.00">
@@ -195,9 +219,13 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ka</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か</text>
           </lyric>
         </note>
       </measure>
@@ -211,9 +239,13 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-44.91" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-76.51" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>pan</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-52.51" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱん</text>
           </lyric>
         </note>
       <note>

@@ -194,7 +194,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pan</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぱん</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -204,7 +208,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pan</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぱん</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -218,7 +226,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pan</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぱん</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -228,7 +240,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pan</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぱん</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -242,7 +258,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pan</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぱん</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -252,8 +272,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pa</text>
               </Lyrics>
+            <Lyrics>
+              <text>ぱ</text>
+              </Lyrics>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -262,7 +286,11 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
               <text>ka</text>
+              </Lyrics>
+            <Lyrics>
+              <text>か</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -277,7 +305,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>pan</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぱん</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>

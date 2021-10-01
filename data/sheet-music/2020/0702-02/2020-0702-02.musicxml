@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-09-12</encoding-date>
+      <encoding-date>2021-10-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -60,7 +60,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="318.39">
+    <measure number="1" width="317.19">
       <print>
         <system-layout>
           <system-margins>
@@ -102,12 +102,16 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>bun</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぶん</text>
+          </lyric>
         </note>
-      <note default-x="185.55" default-y="-15.00">
+      <note default-x="185.02" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -116,12 +120,16 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ki</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き</text>
+          </lyric>
         </note>
-      <note default-x="251.07" default-y="-15.00">
+      <note default-x="250.21" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -130,13 +138,17 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ki</text>
+          </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き</text>
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="281.34">
+    <measure number="2" width="280.14">
       <note default-x="22.55" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -146,12 +158,16 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>bun</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぶん</text>
+          </lyric>
         </note>
-      <note default-x="136.77" default-y="-15.00">
+      <note default-x="136.24" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -160,12 +176,16 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ki</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き</text>
+          </lyric>
         </note>
-      <note default-x="208.16" default-y="-15.00">
+      <note default-x="207.29" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -178,13 +198,17 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>bun</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぶん</text>
+          </lyric>
         </note>
       </measure>
-    <measure number="3" width="228.11">
+    <measure number="3" width="231.71">
       <note default-x="10.00" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -199,7 +223,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="70.09" default-y="-15.00">
+      <note default-x="71.09" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -208,12 +232,16 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ki</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>きっ</text>
+          </lyric>
         </note>
-      <note default-x="166.22" default-y="-15.00">
+      <note default-x="168.82" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -222,13 +250,17 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ki</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き</text>
+          </lyric>
         </note>
       </measure>
-    <measure number="4" width="249.65">
+    <measure number="4" width="248.45">
       <note default-x="22.55" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -238,12 +270,16 @@
         <voice>1</voice>
         <type>half</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>bun</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぶん</text>
+          </lyric>
         </note>
-      <note default-x="126.69" default-y="-20.00">
+      <note default-x="126.09" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -252,12 +288,16 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.50" default-y="-46.60" relative-y="-30.00">
+        <lyric number="2" default-x="6.50" default-y="-72.20" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ki</text>
           </lyric>
+        <lyric number="1" default-x="6.50" default-y="-48.20" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き</text>
+          </lyric>
         </note>
-      <note default-x="126.69" default-y="-10.00">
+      <note default-x="126.09" default-y="-10.00">
         <chord/>
         <pitch>
           <step>D</step>

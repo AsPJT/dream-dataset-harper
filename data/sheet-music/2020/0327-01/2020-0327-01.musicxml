@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-09-12</encoding-date>
+      <encoding-date>2021-10-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -21,27 +21,27 @@
       <tenths>40</tenths>
       </scaling>
     <page-layout>
-      <page-height>1683.36</page-height>
-      <page-width>1190.88</page-width>
+      <page-height>1683.78</page-height>
+      <page-width>1190.55</page-width>
       <page-margins type="even">
-        <left-margin>56.6929</left-margin>
-        <right-margin>56.6929</right-margin>
-        <top-margin>56.6929</top-margin>
-        <bottom-margin>113.386</bottom-margin>
+        <left-margin>85.0393</left-margin>
+        <right-margin>85.0393</right-margin>
+        <top-margin>85.0393</top-margin>
+        <bottom-margin>85.0393</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>56.6929</left-margin>
-        <right-margin>56.6929</right-margin>
-        <top-margin>56.6929</top-margin>
-        <bottom-margin>113.386</bottom-margin>
+        <left-margin>85.0393</left-margin>
+        <right-margin>85.0393</right-margin>
+        <top-margin>85.0393</top-margin>
+        <bottom-margin>85.0393</bottom-margin>
         </page-margins>
       </page-layout>
-    <word-font font-family="FreeSerif" font-size="10"/>
-    <lyric-font font-family="FreeSerif" font-size="11"/>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="595.44" default-y="1626.67" justify="center" valign="top" font-size="24">2020/03/27 No.01</credit-words>
+    <credit-words default-x="595.275" default-y="1598.74" justify="center" valign="top" font-size="22">2020/03/27 No.01</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -60,11 +60,11 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="341.55">
+    <measure number="1" width="322.84">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>50.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
@@ -73,7 +73,7 @@
       <attributes>
         <divisions>1</divisions>
         <key>
-          <fifths>-4</fifths>
+          <fifths>-5</fifths>
           </key>
         <time>
           <beats>4</beats>
@@ -86,14 +86,14 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-x="-36.36" relative-y="20.00">
+          <metronome parentheses="no" default-x="-37.68" relative-y="20.00">
             <beat-unit>half</beat-unit>
             <per-minute>180</per-minute>
             </metronome>
           </direction-type>
         <sound tempo="360"/>
         </direction>
-      <note default-x="128.26" default-y="-15.00">
+      <note default-x="138.84" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -104,7 +104,7 @@
         <dot/>
         <stem>down</stem>
         </note>
-      <note default-x="268.34" default-y="-5.00">
+      <note default-x="259.30" default-y="-5.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -116,8 +116,8 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="2" width="233.86">
-      <note default-x="10.00" default-y="-5.00">
+    <measure number="2" width="204.20">
+      <note default-x="13.00" default-y="-5.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -134,7 +134,7 @@
         <voice>1</voice>
         <type>half</type>
         </note>
-      <note default-x="170.52" default-y="0.00">
+      <note default-x="149.79" default-y="0.00">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -145,14 +145,14 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="3" width="252.52">
+    <measure number="3" width="222.20">
       <note>
         <rest/>
         <duration>1</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note default-x="70.93" default-y="0.00">
+      <note default-x="64.85" default-y="0.00">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -168,7 +168,7 @@
         <voice>1</voice>
         <type>quarter</type>
         </note>
-      <note default-x="190.92" default-y="0.00">
+      <note default-x="168.55" default-y="0.00">
         <pitch>
           <step>F</step>
           <octave>5</octave>
@@ -179,8 +179,8 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="4" width="249.57">
-      <note default-x="10.36" default-y="-5.00">
+    <measure number="4" width="221.23">
+      <note default-x="13.00" default-y="-5.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -191,7 +191,7 @@
         <type>half</type>
         <stem>down</stem>
         </note>
-      <note default-x="108.72" default-y="-10.00">
+      <note default-x="97.18" default-y="-10.00">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -202,7 +202,7 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
-      <note default-x="169.96" default-y="-5.00">
+      <note default-x="149.79" default-y="-5.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>

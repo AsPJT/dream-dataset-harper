@@ -193,17 +193,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>bun</text>
               </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Lyrics>
-              <text>ki</text>
+              <text>ぶん</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -213,7 +207,25 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
               <text>ki</text>
+              </Lyrics>
+            <Lyrics>
+              <text>き</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <no>1</no>
+              <text>ki</text>
+              </Lyrics>
+            <Lyrics>
+              <text>き</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -227,7 +239,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>bun</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぶん</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -237,8 +253,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
               <text>ki</text>
               </Lyrics>
+            <Lyrics>
+              <text>き</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -247,7 +267,11 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
               <text>bun</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぶん</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -286,7 +310,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>ki</text>
+              </Lyrics>
+            <Lyrics>
+              <text>きっ</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -296,7 +324,11 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <no>1</no>
               <text>ki</text>
+              </Lyrics>
+            <Lyrics>
+              <text>き</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -311,7 +343,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>bun</text>
+              </Lyrics>
+            <Lyrics>
+              <text>ぶん</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -321,7 +357,11 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <no>1</no>
               <text>ki</text>
+              </Lyrics>
+            <Lyrics>
+              <text>き</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
