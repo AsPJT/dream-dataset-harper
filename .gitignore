@@ -1,6 +1,9 @@
+# MuseScore
 .mscbackup/
-History/
 *.mscx,
+
+# Studio One
+History/
 *.song.autosave
 *.song
 *.autosave
