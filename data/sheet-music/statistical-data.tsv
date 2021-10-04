@@ -1,34 +1,35 @@
-調	調が確定した曲数
-全部	13
-長調	7
-短調	6
-変イ短調	0
-変ホ短調	1
-変ロ短調	0
-ヘ短調	1
-ハ短調	0
-ト短調	0
-ニ短調	0
-イ短調	0
-ホ短調	2
-ロ短調	1
-嬰ヘ短調	0
-嬰ハ短調	0
-嬰ト短調	0
-嬰ニ短調	1
-嬰イ短調	0
-変ハ長調	0
-変ト長調	0
-変ニ長調	1
-変イ長調	0
-変ホ長調	2
-変ロ長調	0
-ヘ長調	1
-ハ長調	0
-ト長調	2
-ニ長調	0
-イ長調	1
-ホ長調	0
-ロ長調	0
-嬰ヘ長調	0
-嬰ハ長調	0
+調	英語	独語	仏語	伊語	中国語	調が確定した曲数
+全部						13
+全記号						13
+長調						7
+短調						6
+変イ短調	A flat minor	As-Moll	La bémol mineur	La bemolle minore	降A小調	0
+変ホ短調	E flat minor	Es-Moll	Mi bémol mineur	Mi bemolle minore	降E小調	1
+変ロ短調	B flat minor	B-Moll	Si bémol mineur	Si bemolle minore	降B小調	0
+ヘ短調	F minor	F-Moll	Fa mineur	Fa minore	F小調	1
+ハ短調	C minor	C-Moll	Ut mineur	Do minore	C小調	0
+ト短調	G minor	G-Moll	Sol mineur	Sol minore	G小調	0
+ニ短調	D minor	D-Moll	Ré mineur	Re minore	D小調	0
+イ短調	A minor	A-Moll	La mineur	La minore	A小調	0
+ホ短調	E minor	E-Moll	Mi mineur	Mi minore	E小調	2
+ロ短調	B minor	H-Moll	Si mineur	Si minore	B小調	1
+嬰ヘ短調	F sharp minor	Fis-Moll	Fa dièse mineur	Fa diesis minore	升F小調	0
+嬰ハ短調	C sharp minor	Cis-Moll	Ut dièse mineur	Do diesis minore	升C小調	0
+嬰ト短調	G sharp minor	Gis-Moll	Sol dièse mineur	Sol diesis minore	升G小調	0
+嬰ニ短調	D sharp minor	Dis-Moll	Ré dièse mineur	Re diesis minore	升D小調	1
+嬰イ短調	A sharp minor	Ais-Moll	La dièse mineur	La diesis minore	升A小調	0
+変ハ長調	C flat major	Ces-Dur	Ut bémol majeur	Do bemolle maggiore	降C大調	0
+変ト長調	G flat major	Ges-Dur	Sol bémol majeur	Sol bemolle maggiore	降G大調	0
+変ニ長調	D flat major	Des-Dur	Ré bémol majeur	Re bemolle maggiore	降D大調	1
+変イ長調	A flat major	As-Dur	La bémol majeur	La bemolle maggiore	降A大調	0
+変ホ長調	E flat major	Es-Dur	Mi bémol majeur	Mi bemolle maggiore	降E大調	2
+変ロ長調	B flat major	B-Dur	Si bémol majeur	Si bemolle maggiore	降B大調	0
+ヘ長調	F major	F-Dur	Fa majeur	Fa maggiore	F大調	1
+ハ長調	C major	C-Dur	Ut majeur	Do maggiore	C大調	0
+ト長調	G major	G-Dur	Sol majeur	Sol maggiore	G大調	2
+ニ長調	D major	D-Dur	Ré majeur	Re maggiore	D大調	0
+イ長調	A major	A-Dur	La majeur	La maggiore	A大調	1
+ホ長調	E major	E-Dur	Mi majeur	Mi maggiore	E大調	0
+ロ長調	B major	H-Dur	Si majeur	Si maggiore	B大調	0
+嬰ヘ長調	F sharp major	Fis-Dur	Fa dièse majeur	Fa diesis maggiore	升F大調	0
+嬰ハ長調	C sharp major	Cis-Dur	Ut dièse majeur	Do diesis maggiore	升C大調	0
