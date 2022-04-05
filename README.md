@@ -10,7 +10,7 @@ dream database
 
 These data are licensed under CC BY 4.0.
 
-Copyright (c) 2007-2021 As Project.
+Copyright (c) 2007-2022 As Project.
 
 ---
 
