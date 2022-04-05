@@ -1,0 +1,79 @@
+生物名 name	name	登場回数(完全一致) appearance (exact match) (auto)	登場回数(部分一致) appearance (partial match) (auto)	登場日(部分一致) date of appearance (partial match) (auto)	登場日UUID(部分一致) UUID of appearance (partial match) (auto)
+白鳥(鳥類)	Swan (birds)	1	1	2007/4/6	1095a273-7b1a-7b19-3296-1717df8546d6
+無し	null	1312	1312		
+蛙(両生類)	Frog (amphibian)	3	4	2016/8/15 2019/10/12 2020/04/07 2022/03/24	9b5e2a22-b7b8-210d-8d8d-7eef55a30286 e8340601-c5b5-1af9-0df3-7dca05d05e91 948a67b4-066b-216a-f714-3536ac945d39 4aae1ed6-aec6-5703-89a2-29d35a43389a
+セミの幼虫(虫)	Cicada larvae (insect)	1	1	2016/8/18	a3d4bf08-12fe-5321-455d-cbdb7e8cd649
+北アメリカの魚(魚類)	North American Fish (fish)	1	1	2017/1/6	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
+タテジマキンチャクダイの幼魚(魚類)	Juvenile Emperor angelfish (fish)	1	1	2017/1/6	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
+魚(魚類)	Fish (fish)	8	14	2017/1/6 2017/1/14 2017/1/22 2017/1/22 2018/10/24 2018/10/25 2020/04/04 2020/10/09 2020/11/11 2020/12/05 2021/09/17 2021/10/30 2021/11/25 2021/12/05	14fc6059-7788-abd2-bafc-fcd0f88fa4f7 81588d4d-13e3-4905-0bd8-f86bcb32281e 979f5b55-1ed5-c683-ee64-68de03526a20 fc894c4a-b177-8bb6-a654-556364f2c426 b135fbc0-5f6c-12d8-86e6-36301150c339 467e9df8-7fbe-86f4-2dbc-2eb80cdd7c1f 67b48c20-b487-0a78-6f74-22bfe1ad8d05 a253ceb6-2026-52ce-a687-ecae06509a47 c78b0a7f-d69a-3f19-7e9a-f92c509ae355 81df9f8b-017d-1c57-3349-8b9b9692f5f4 732cc896-7654-4aa5-e336-02c39aac94fb c7c86384-3b3e-b43f-e259-b3db232ce187 38f5bb2f-97eb-7300-acf8-8e3456fa322c 4b0d5b88-c576-eb45-2821-3ced0c544d87
+10cmの蜘蛛(虫)	10cm spider (insect)	1	1	2017/1/14	d82165b2-2b37-fefe-83b4-5e7fc23d13bd
+金魚(魚類)	Goldfish (fish)	1	1	2017/1/22	fc894c4a-b177-8bb6-a654-556364f2c426
+大きい蜘蛛(虫)	Large spider (insect)	2	2	2017/9/17 2020/08/06	0dbdb7dc-e5e7-7782-6c65-651fed920ce0 e0681e9b-8dd5-0bb7-0fc2-01915ed5a6ce
+大きいゴキブリ(虫)	Large cockroach (insect)	1	1	2017/9/17	0dbdb7dc-e5e7-7782-6c65-651fed920ce0
+ナンヨウハギ(魚類)	Paracanthurus hepatus (fish)	1	1	2018/9/26	d2282f5f-f8ff-8210-1daf-4ccb84175e0c
+鮫(魚類)	Shark (fish)	2	2	2018/10/4 2021/04/07	dba6ff82-c436-04b4-10f6-df53d42b1741 46e95541-7aae-0236-4bdc-c3cb3123d2d8
+鯨(哺乳類)	Whale (mammal)	2	2	2018/10/4 2021/09/17	dba6ff82-c436-04b4-10f6-df53d42b1741 732cc896-7654-4aa5-e336-02c39aac94fb
+鯉のような魚(魚類)	Carp-like fish (fish)	1	1	2018/10/24	b135fbc0-5f6c-12d8-86e6-36301150c339
+蛇(爬虫類)	Snake (reptile)	3	4	2018/10/24 2020/03/18 2021/01/16 2022/02/06	b135fbc0-5f6c-12d8-86e6-36301150c339 fc588b15-0114-3f35-972f-b8dd18fcb0cc f8f533fd-4afa-70a3-eab0-299925ec5e89 946219da-c2c0-77d5-a5c0-b4f264a4ca51
+渡り鳥(鳥類)	Migratory birds (birds)	1	1	2018/10/25	ddb7eb6f-9f26-f115-f535-a4be6f3d3c8a
+蟹(甲殻類)	Crab (crustacean)	2	2	2018/10/27 2020/10/03	31c8c2a1-a048-ba6e-1e00-b1dddc986692 2864c0c3-c885-7af1-492d-46f5ab469dc1
+蜘蛛(虫)	Spider (insect)	1	4	2017/1/14 2017/9/17 2018/11/22 2020/08/06	d82165b2-2b37-fefe-83b4-5e7fc23d13bd 0dbdb7dc-e5e7-7782-6c65-651fed920ce0 71ff6c7f-5ec7-74e5-7ca4-55d843e8a2ca e0681e9b-8dd5-0bb7-0fc2-01915ed5a6ce
+巨大な木(植物)	Giant tree (plant)	1	1	2019/03/28	d6561497-006b-dcce-5e88-8d8a41d3bfee
+蜜蜂(虫)	Honeybee (insect)	1	1	2019/03/28	d6561497-006b-dcce-5e88-8d8a41d3bfee
+孔雀のような鳥(鳥類)	Peacock-like bird (birds)	1	1	2019/04/02	de7016b8-80f1-c7a6-ae30-4880e3d5f554
+蜜柑の木(植物)	Citrus tree (plant)	1	1	2019/04/10	e91fcadf-5901-8b2c-e591-95f4b6b199b9
+アゲハチョウの幼虫(虫)	Swallowtail butterfly larva (insect)	3	3	2019/04/10 2020/04/11 2020/09/27	e91fcadf-5901-8b2c-e591-95f4b6b199b9 6c6f3a08-8e1f-7f3d-e689-9ab13adf458e b7f5e2bd-a023-e2fc-5407-babbb42ea816
+ラーテル(哺乳類)	Ratel (mammal)	1	1	2019/04/10	e91fcadf-5901-8b2c-e591-95f4b6b199b9
+犬(哺乳類)	Dog (mammal)	2	3	2019/04/10 2022/02/05 2022/03/24	e91fcadf-5901-8b2c-e591-95f4b6b199b9 6862ca34-ebf5-7236-2765-ddbf0f22e87b 4aae1ed6-aec6-5703-89a2-29d35a43389a
+アゲハチョウの蛹(虫)	Swallowtail butterfly pupa (insect)	1	1	2019/04/10	e91fcadf-5901-8b2c-e591-95f4b6b199b9
+植物(植物)	Plant (Plant)	1	1	2019/05/01	d3958398-30df-eeec-4bba-ccb2a3516ef5
+毒蛙(両生類)	Poisonous frog (amphibian)	1	1	2020/04/07	948a67b4-066b-216a-f714-3536ac945d39
+カラス(鳥類)	Crow (birds)	1	1	2020/04/08	388430ae-44f6-04f6-4002-e48a2e89f055
+蜂(虫)	Bee (insect)	1	2	2019/03/28 2020/08/03	d6561497-006b-dcce-5e88-8d8a41d3bfee 8b0fd799-b639-eb15-ef08-e0dfa7b39d16
+別の種類の蜘蛛(虫)	Another kind of spider (insect)	1	1	2020/08/06	e0681e9b-8dd5-0bb7-0fc2-01915ed5a6ce
+幼虫(虫)	Larvae (insect)	1	6	2016/8/18 2019/04/10 2020/04/11 2020/08/28 2020/09/23 2020/09/27	a3d4bf08-12fe-5321-455d-cbdb7e8cd649 e91fcadf-5901-8b2c-e591-95f4b6b199b9 6c6f3a08-8e1f-7f3d-e689-9ab13adf458e 6baed0ec-b813-bec9-7902-78ba5cdc6051 e312e53e-b99e-56e1-7a6e-ae9d868b8cbd b7f5e2bd-a023-e2fc-5407-babbb42ea816
+蚊(虫)	Mosquito (insect)	3	3	2020/09/09 2021/11/12 2022/01/17	e8f1a23f-8e26-1e1e-4f79-a87c9094bd6d 70ec4cc5-dbb0-206d-f32c-8f0a073de7d3 835917a5-3d0f-2b91-e0e4-75b113886d87
+緑色の幼虫(虫)	Green larva (insect)	1	1	2020/09/23	e312e53e-b99e-56e1-7a6e-ae9d868b8cbd
+馬(哺乳類)	Horse (mammal)	1	1	2020/11/02	9e002273-8b51-87cd-1d68-4b96f85e83a2
+鳥(鳥類)	Bird (birds)	1	7	2007/4/6 2018/10/25 2019/04/02 2020/11/06 2020/11/12 2021/04/25 2021/08/12	1095a273-7b1a-7b19-3296-1717df8546d6 ddb7eb6f-9f26-f115-f535-a4be6f3d3c8a de7016b8-80f1-c7a6-ae30-4880e3d5f554 909cf71b-8afc-b232-aadb-5b4a94e9ae2c 61f51f01-2b0b-0076-53f5-5e2622bbcbdb 1b6ae0c7-ec63-345d-2f7b-605d3e323214 fe8d1c57-45ae-66e0-4b35-485dff57ece9
+大きい亀(爬虫類)	Large turtle (reptile)	1	1	2020/11/06	909cf71b-8afc-b232-aadb-5b4a94e9ae2c
+大きい鳥(鳥類)	Large Bird (birds)	1	1	2020/11/12	61f51f01-2b0b-0076-53f5-5e2622bbcbdb
+タテジマキンチャクダイ(魚類)	Emperor angelfish (fish)	1	1	2020/12/05	81df9f8b-017d-1c57-3349-8b9b9692f5f4
+両手くらいの大きさの魚(魚類)	Fish about the size of both hands (fish)	1	1	2020/12/05	81df9f8b-017d-1c57-3349-8b9b9692f5f4
+イルカ(哺乳類)	Dolphin (mammal)	1	1	2021/01/16	f8f533fd-4afa-70a3-eab0-299925ec5e89
+そこそこ大きい蛇(爬虫類)	A snake of a certain size (reptile)	1	1	2021/01/16	f8f533fd-4afa-70a3-eab0-299925ec5e89
+狐(哺乳類)	Fox (mammal)	2	2	2021/01/22 2022/02/08	9e780400-ecd0-fd27-9e91-bec13cce262f cc2de149-a276-cbb3-6c1b-862c21e9ff17
+メジロ(鳥類)	Zosterops japonicus (birds)	1	1	2021/01/25	61178f1b-0245-dd26-48fc-79b7da18454a
+リス(哺乳類)	Squirrel (mammal)	1	1	2021/03/03	ffbe145e-93d2-386f-3335-35b926937296
+熊(哺乳類)	Bear (mammal)	1	1	2021/04/18	adec2154-ec63-c35a-ee3a-ce7952616bf9
+飛べない鳥(鳥類)	Flightless bird (birds)	1	2	2021/04/25 2021/08/12	1b6ae0c7-ec63-345d-2f7b-605d3e323214 fe8d1c57-45ae-66e0-4b35-485dff57ece9
+カブトムシ(虫)	Beetle (insect)	2	3	2021/05/04 2021/09/10 2022/01/08	733b2a49-5f1a-f0fb-f0f5-cff65503f3b3 318cfc55-e329-b9dc-796c-f349e29044b9 24cce49d-b74c-b661-219f-ec60ce7b98fc
+サメのような生き物(魚類)	Shark-like creatures (fish)	1	1	2021/05/19	b7846ae1-6d9c-12b0-3ca0-7e59caedef7f
+白いクマ(哺乳類)	White bear (mammal)	1	1	2021/05/21	72e8c7ce-703b-39cd-2d80-2d633222260f
+カバ(哺乳類)	Hippopotamus (mammal)	1	1	2021/05/21	72e8c7ce-703b-39cd-2d80-2d633222260f
+首の長い不気味な鹿(哺乳類)	Creepy deer with long neck (mammal)	1	1	2021/06/19	b19e37af-c9b1-127c-b87d-dc41abdc41af
+ゴリラ(哺乳類)	Gorilla (mammal)	3	3	2021/07/06 2021/07/14 2021/11/26	8ef38bfe-d38a-1d02-3591-b45545de1fcc 2fc15e4b-679f-7eb9-c01c-9264d5f6aec6 be902c43-82c7-78ac-a321-7faad8fca4f2
+恐竜(恐竜)	Dinosaur (dinosaur)	1	1	2021/08/12	fe8d1c57-45ae-66e0-4b35-485dff57ece9
+巨大な地面を歩く飛べない鳥(鳥類)	Giant ground-walking flightless bird (birds)	1	1	2021/08/12	fe8d1c57-45ae-66e0-4b35-485dff57ece9
+蟻(虫)	Ant (insect)	1	1	2021/08/30	1452a553-7dcb-e671-d9cb-11cb48f99698
+バッタ(虫)	Grasshopper (insect)	1	1	2021/09/10	318cfc55-e329-b9dc-796c-f349e29044b9
+ゾウカブト(虫)	Elephant beetle (insect)	1	1	2021/09/10	318cfc55-e329-b9dc-796c-f349e29044b9
+コーカサスオオカブト(虫)	Chalcosoma chiron (insect)	1	1	2021/09/10	318cfc55-e329-b9dc-796c-f349e29044b9
+大きいカブトムシ(虫)	Large beetle (insect)	1	1	2021/09/10	318cfc55-e329-b9dc-796c-f349e29044b9
+象(哺乳類)	Elephant (mammal)	1	1	2021/09/15	68fc4c52-8fe1-000f-4594-347d80ba983f
+とても大きい魚(魚類)	Very large fish (fish)	1	1	2021/09/17	732cc896-7654-4aa5-e336-02c39aac94fb
+クワガタのような大きいアゴを持つアリグモ(虫)	An ant spider with a jaw as big as a stag beetle (insect)	1	1	2021/09/29	d71c61fd-341d-aee5-283b-f3c44284e9b5
+スズメバチ(虫)	Wasp (insect)	1	1	2021/09/30	f9e471f8-7010-0dcf-4f5b-03e9d530b67f
+淡い黄色の虫(虫)	Pale yellow worm (insect)	1	1	2021/10/05	be2f5bde-fe95-399a-844a-edbd08c6323c
+大きい魚(魚類)	Large fish (fish)	1	2	2021/09/17 2021/10/30	732cc896-7654-4aa5-e336-02c39aac94fb c7c86384-3b3e-b43f-e259-b3db232ce187
+鶏(鳥類)	Chicken (birds)	1	1	2021/11/04	9cb75eed-4810-12a4-dcd3-485a35c5d7eb
+ドジョウ(魚類)	Loach (fish)	1	1	2021/11/25	38f5bb2f-97eb-7300-acf8-8e3456fa322c
+カワウソ(哺乳類)	Otter (mammal)	1	1	2021/12/02	6a96ae18-8bae-8bab-441b-f69f796d128e
+イシダイのような白黒の縦縞の魚(魚類)	Fish with black-and-white vertical stripes, such as Oplegnathus fasciatus (fish)	1	1	2021/12/05	4b0d5b88-c576-eb45-2821-3ced0c544d87
+ジンベイザメ(魚類)	Whale shark (fish)	1	1	2021/12/05	4b0d5b88-c576-eb45-2821-3ced0c544d87
+虎(哺乳類)	Tiger (mammal)	1	1	2022/01/22	ed685280-6a84-e52d-b5a2-6a30cfe12dcf
+雀(鳥類)	Sparrow (birds)	1	1	2022/01/24	62cc6fa3-5aa4-058d-de82-61972df517b7
+小さい細くて白い犬(哺乳類)	Small, thin, white dog (mammal)	1	1	2022/02/05	6862ca34-ebf5-7236-2765-ddbf0f22e87b
+豚(哺乳類)	Pig (mammal)	1	1	2022/02/08	cc2de149-a276-cbb3-6c1b-862c21e9ff17
+コウモリ(哺乳類)	Bat (mammal)	1	1	2022/02/27	7dc0a642-89ef-0a89-31ef-ef48b2104c7e
+大きいネコ科の動物(哺乳類)	Large cat (mammal)	1	1	2022/04/02	bc9d8744-3cf3-52b9-0370-b3b3a3fa030a
