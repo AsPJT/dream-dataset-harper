@@ -8,7 +8,7 @@
 
 これらのデータはCC BY 4.0でライセンスされています。
 
-Copyright (c) 2007-2021 As Project.
+Copyright (c) 2007-2022 As Project.
 
 ---
 
