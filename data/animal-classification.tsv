@@ -1,0 +1,10 @@
+(Update 2022/04/06) 生き物の分類 animal classification	animal classification	登場回数 appearance (auto)	登場確率(%) probability of appearance (auto)	登場確率 probability of appearance (auto)
+無し	null	1315	94.4684%	0.944683908
+無し以外	not null	77	5.5316%	0.05531609195
+虫	Insects	22	1.5805%	0.0158045977
+魚類	Fishes	18	1.2931%	0.01293103448
+鳥類	Birds	11	0.7902%	0.007902298851
+両生類	Amphibians	4	0.2874%	0.002873563218
+爬虫類	Reptiles	5	0.3592%	0.003591954023
+甲殻類	Crustaceans	2	0.1437%	0.001436781609
+哺乳類	Mammals	21	1.5086%	0.0150862069
