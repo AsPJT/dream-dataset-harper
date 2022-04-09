@@ -1,20 +1,20 @@
-(Update 2022/04/06) 生物名 name	name	登場回数 appearance (auto)	登場日 date of appearance (auto)	登場日UUID UUID of appearance (auto)
-白鳥(鳥類)	Swan (birds)	1	2007/4/6	1095a273-7b1a-7b19-3296-1717df8546d6
-無し	null	1315		
-蛙(両生類)	Frog (amphibian)	3	2016/8/15 2019/10/12 2022/03/24	9b5e2a22-b7b8-210d-8d8d-7eef55a30286 e8340601-c5b5-1af9-0df3-7dca05d05e91 4aae1ed6-aec6-5703-89a2-29d35a43389a
-セミの幼虫(虫)	Cicada larvae (insect)	1	2016/8/18	a3d4bf08-12fe-5321-455d-cbdb7e8cd649
-北アメリカの魚(魚類)	North American Fish (fish)	1	2017/1/6	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
-タテジマキンチャクダイの幼魚(魚類)	Juvenile Emperor angelfish (fish)	1	2017/1/6	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
-魚(魚類)	Fish (fish)	8	2017/1/14 2017/1/22 2018/10/25 2020/04/04 2020/10/09 2020/11/11 2021/11/25 2021/12/05	81588d4d-13e3-4905-0bd8-f86bcb32281e 979f5b55-1ed5-c683-ee64-68de03526a20 467e9df8-7fbe-86f4-2dbc-2eb80cdd7c1f 67b48c20-b487-0a78-6f74-22bfe1ad8d05 a253ceb6-2026-52ce-a687-ecae06509a47 c78b0a7f-d69a-3f19-7e9a-f92c509ae355 38f5bb2f-97eb-7300-acf8-8e3456fa322c 4b0d5b88-c576-eb45-2821-3ced0c544d87
-10cmの蜘蛛(虫)	10cm spider (insect)	1	2017/1/14	d82165b2-2b37-fefe-83b4-5e7fc23d13bd
-金魚(魚類)	Goldfish (fish)	1	2017/1/22	fc894c4a-b177-8bb6-a654-556364f2c426
-大きい蜘蛛(虫)	Large spider (insect)	2	2017/9/17 2020/08/06	0dbdb7dc-e5e7-7782-6c65-651fed920ce0 e0681e9b-8dd5-0bb7-0fc2-01915ed5a6ce
-大きいゴキブリ(虫)	Large cockroach (insect)	1	2017/9/17	0dbdb7dc-e5e7-7782-6c65-651fed920ce0
-ナンヨウハギ(魚類)	Paracanthurus hepatus (fish)	1	2018/9/26	d2282f5f-f8ff-8210-1daf-4ccb84175e0c
-鮫(魚類)	Shark (fish)	2	2018/10/4 2021/04/07	dba6ff82-c436-04b4-10f6-df53d42b1741 46e95541-7aae-0236-4bdc-c3cb3123d2d8
-鯨(哺乳類)	Whale (mammal)	2	2018/10/4 2021/09/17	dba6ff82-c436-04b4-10f6-df53d42b1741 732cc896-7654-4aa5-e336-02c39aac94fb
+(Update 2022/04/09) 生物名 name	name	登場回数 appearance (auto)	登場日 date of appearance (auto)	登場日UUID UUID of appearance (auto)
+白鳥(鳥類)	Swan (birds)	1	2007/04/06	1095a273-7b1a-7b19-3296-1717df8546d6
+無し	null	1322		
+蛙(両生類)	Frog (amphibian)	3	2016/08/15 2019/10/12 2022/03/24	9b5e2a22-b7b8-210d-8d8d-7eef55a30286 e8340601-c5b5-1af9-0df3-7dca05d05e91 4aae1ed6-aec6-5703-89a2-29d35a43389a
+セミの幼虫(虫)	Cicada larvae (insect)	1	2016/08/18	a3d4bf08-12fe-5321-455d-cbdb7e8cd649
+北アメリカの魚(魚類)	North American Fish (fish)	1	2017/01/06	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
+タテジマキンチャクダイの幼魚(魚類)	Juvenile Emperor angelfish (fish)	1	2017/01/06	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
+魚(魚類)	Fish (fish)	8	2017/01/14 2017/01/22 2018/10/25 2020/04/04 2020/10/09 2020/11/11 2021/11/25 2021/12/05	81588d4d-13e3-4905-0bd8-f86bcb32281e 979f5b55-1ed5-c683-ee64-68de03526a20 467e9df8-7fbe-86f4-2dbc-2eb80cdd7c1f 67b48c20-b487-0a78-6f74-22bfe1ad8d05 a253ceb6-2026-52ce-a687-ecae06509a47 c78b0a7f-d69a-3f19-7e9a-f92c509ae355 38f5bb2f-97eb-7300-acf8-8e3456fa322c 4b0d5b88-c576-eb45-2821-3ced0c544d87
+10cmの蜘蛛(虫)	10cm spider (insect)	1	2017/01/14	d82165b2-2b37-fefe-83b4-5e7fc23d13bd
+金魚(魚類)	Goldfish (fish)	1	2017/01/22	fc894c4a-b177-8bb6-a654-556364f2c426
+大きい蜘蛛(虫)	Large spider (insect)	2	2017/09/17 2020/08/06	0dbdb7dc-e5e7-7782-6c65-651fed920ce0 e0681e9b-8dd5-0bb7-0fc2-01915ed5a6ce
+大きいゴキブリ(虫)	Large cockroach (insect)	1	2017/09/17	0dbdb7dc-e5e7-7782-6c65-651fed920ce0
+ナンヨウハギ(魚類)	Paracanthurus hepatus (fish)	1	2018/09/26	d2282f5f-f8ff-8210-1daf-4ccb84175e0c
+鮫(魚類)	Shark (fish)	2	2018/10/04 2021/04/07	dba6ff82-c436-04b4-10f6-df53d42b1741 46e95541-7aae-0236-4bdc-c3cb3123d2d8
+鯨(哺乳類)	Whale (mammal)	2	2018/10/04 2021/09/17	dba6ff82-c436-04b4-10f6-df53d42b1741 732cc896-7654-4aa5-e336-02c39aac94fb
 鯉のような魚(魚類)	Carp-like fish (fish)	1	2018/10/24	b135fbc0-5f6c-12d8-86e6-36301150c339
-蛇(爬虫類)	Snake (reptile)	3	2018/10/24 2020/03/18 2022/02/06	b135fbc0-5f6c-12d8-86e6-36301150c339 fc588b15-0114-3f35-972f-b8dd18fcb0cc 946219da-c2c0-77d5-a5c0-b4f264a4ca51
+蛇(爬虫類)	Snake (reptile)	4	2018/10/24 2020/03/18 2022/02/06 2022/04/09	b135fbc0-5f6c-12d8-86e6-36301150c339 fc588b15-0114-3f35-972f-b8dd18fcb0cc 946219da-c2c0-77d5-a5c0-b4f264a4ca51 17fa80eb-bfc7-18d8-94c3-48c9707542a9
 渡り鳥(鳥類)	Migratory birds (birds)	1	2018/10/25	ddb7eb6f-9f26-f115-f535-a4be6f3d3c8a
 蟹(甲殻類)	Crab (crustacean)	2	2018/10/27 2020/10/03	31c8c2a1-a048-ba6e-1e00-b1dddc986692 2864c0c3-c885-7af1-492d-46f5ab469dc1
 蜘蛛(虫)	Spider (insect)	1	2018/11/22	71ff6c7f-5ec7-74e5-7ca4-55d843e8a2ca
