@@ -1,5 +1,3 @@
-[>> 日本語版はこちら 🗾🇯🇵](https://github.com/Asuimin/dream-database/blob/main/README-ja-jp.md)
-
 # Dream Database 💤
 
 ### Profile 😆
@@ -14,11 +12,11 @@
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
 
-### [Figure 1. dreams & days to dream (夢数と夢日数)](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [Figure 1. Dreams & Days to dream (夢数と夢日数)](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count-log-scale.svg)
 
-### [Figure 2. word count (文字数)](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [Figure 2. Word count (文字数)](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ---
 
@@ -32,11 +30,28 @@ Let's calculate the dream diary history from the first day when you start to con
 
 In summary, the dream diary history is five and a half years in the narrow sense and 14 years in the broadest sense.
 
+## 夢日記の継続年数（2021年9月現在） 📜
+
+私が初めて書き記した夢日記は2007年4月6日の夢でした（少なくとも、この夢が私の書いた現存する最古の夢日記となります）。この日を起点に考えると私は夢日記を付け始めてから14年も経過したことになります。
+
+しかし、その後の2008年、2010年から2012年の期間は一度も夢が記録されていません。そのため、私は夢日記を14年も続けているとは言い難いです。
+
+夢日記を継続し始めた最初の日から夢日記歴を算出することにしましょう。1ヶ月に1度以上の頻度で夢日記を書き始めたのが2015年12月6日です。この日を起点に考えると私は夢日記を付け始めてから5年半も経過したことになります。思ったよりも長いです。
+
+まとめると、夢日記歴は狭義だと5年半、最広義だと14年となります。
+
 ## About the music that played in my dream 🎵
 
 I sometimes have music playing in my dreams. I categorize the music that plays in my dreams into two types. One is music that I know, and the other is music that I don't know. I can understand that the music I know is stored in my brain, but where does the music I don't know come from?
 
 I have compiled the unknown songs played in my dream as music score data. The score data is available in musicxml format. [Please feel free to send me an issue if you have any other data format that you would like to see.](https://github.com/Asuimin/dream-database/issues)
+
+## 夢で流れた音楽について 🎵
+
+私はたまに夢で音楽が流れることがあります。私は夢で流れる音楽を2種類に分類しています。それは知っている曲と知らない曲の2種類です。知っている曲が流れるのはその曲が脳に記憶されているとなんとなく理解が出来ますが、知らない曲は一体どこから生成されているのでしょうか。
+
+夢で流れた知らない曲を楽譜データとしてまとめてあります。楽譜データはmusicxml形式で公開しています。他にあると嬉しいデータ形式などがありましたらお気軽にIssueを飛ばしてください。
+
 
 ## About lucid dreaming 🧠
 
@@ -46,6 +61,14 @@ Records show that I have lucid dreaming at least twice. It is recorded that both
 
 Therefore, I have no good memories of lucid dreaming.
 
+# 明晰夢について 🧠
+
+私が初めて明晰夢を知ったのは2015年4月6日（月）の午前8時17分です。私は明晰夢を知る前から夢日記をつけていました（少なくとも2015年4月6日までに18件の夢の記録があります）。
+
+記録によると私は少なくとも2回、明晰夢を見ています。その2回とも怖い夢だったと記録されています。怖い夢の中で夢だと気づき、いち早く夢から覚めようとしていたのです。
+
+そのため、私は明晰夢に良い思い出がありません。
+
 ---
 
 ## [License 💳](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
@@ -53,5 +76,13 @@ Therefore, I have no good memories of lucid dreaming.
 [>> View License](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
 
 These data are licensed under CC BY 4.0.
+
+Copyright (c) 2007-2022 As Project.
+
+## [ライセンス 💳](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
+
+[>> View License](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
+
+これらのデータはCC BY 4.0でライセンスされています。
 
 Copyright (c) 2007-2022 As Project.
