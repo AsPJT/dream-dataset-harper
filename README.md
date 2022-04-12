@@ -8,15 +8,73 @@
 
 ---
 
-## Graph 📈
+# Graph 📈
+
+## Dreams 💭
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
 
-### [Figure 1. Dreams & Days to dream (夢数と夢日数)](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [Figure. Dreams & Days to dream 夢数と夢日数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
-![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count-log-scale.svg)
+|![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count.svg)|![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count-log-scale.svg)|
+|:---|:---|
 
-### [Figure 2. Word count (文字数)](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [Figure. Word count 文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/average-word-count.svg)
+
+### [Figure. Average word count 平均文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+---
+
+## Story 📝
+
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-15-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-25-characters.svg)|
+|:---|:---|
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-50-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-100-characters.svg)|
+
+### Figure. Dream Characters 夢の文字数
+
+---
+
+## Animal 🐍
+
+![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-animal-appearing.svg)
+
+### [Figure. Probability of animal appearing 生物が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/probability-of-appearance-by-animal-classification.svg)
+
+### [Figure. Probability of appearance by animal classification 生物の分類ごとの登場確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
+
+---
+
+## Fictitious people 👺
+
+|![fictitious people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-fictitious-people-appearing.svg)|![probability](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-appearance.svg)|
+|:---|:---|
+
+### [Figure. Probability of fictitious people appearing キャラクター（架空の人物）が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+---
+
+## Pokémon 🐣
+
+![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/pokemon-related-dreams-per-dream.svg)
+
+### [Figure. Pokémon-related dreams per dream 1夢あたりのポケモン関連の夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+---
+
+## Music 🎼
+
+![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/musical-dreams.svg)
+
+### [Figure. Musical dreams 音楽夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/percentage-of-key.svg)
+
+### [Figure. Percentage of key 夢で流れた音楽の調の割合](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
 
 ---
 
