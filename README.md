@@ -30,6 +30,17 @@
 
 ### [Figure. Dreams per day of the week 曜日ごとの夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
+|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-deviation-score.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week-scatter-plot.svg)|
+|:---|:---|
+
+### [Figure. Day-of-week deviation score 曜日ごとの夢数の偏差値](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [Figure. Percentage of dreams per day of the week 曜日ごとの夢数割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-coefficient-of-variation.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-coefficient-of-variation-2013.svg)|
+|:---|:---|
+
+### [Figure. Day-of-week coefficient of variation 曜日ごとの夢数の変動係数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
 ---
 
 ## Story 📝
@@ -39,6 +50,16 @@
 |![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-50-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-100-characters.svg)|
 
 ### Figure. Dream Characters 夢の文字数
+
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2013.svg)|
+|:---|:---|
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2018.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2020.svg)|
+
+### Figure. Word count in story and year 物語文字数と年
+
+![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-rank.svg)
+
+### Figure. Word count in story and rank 物語文字数と順位
 
 ---
 
@@ -65,6 +86,10 @@
 
 ### [Figure. Probability of appearance by animal classification 生物の分類ごとの登場確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
 
+![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/ratio-of-animal-classification.svg)
+
+### [Figure. Ratio of animal classification 生物の分類ごとの割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
+
 ---
 
 ## Fictitious people 👺
@@ -82,6 +107,11 @@
 
 ### [Figure. Pokémon-related dreams per dream 1夢あたりのポケモン関連の夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
+|![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/pokemon/pokemon-appearance-ratios-for-each-region.svg)|![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/pokemon/pokemon-appearance-ratios-for-each-region-donuts.svg)|
+|:---|:---|
+
+### [Figure. Pokémon appearance ratios for each region 各地方のポケモンの出現率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)
+
 ---
 
 ## Music 🎼
@@ -93,6 +123,16 @@
 ![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/percentage-of-key.svg)
 
 ### [Figure. Percentage of key 夢で流れた音楽の調の割合](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
+
+|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/music-with-a-fixed-key-signature.svg)|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/music-with-a-fixed-key-signature-donuts.svg)|
+|:---|:---|
+
+### [Figure. Music with a fixed key signature 調号が確定した音楽](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
+
+|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/all-music-key-signatures.svg)|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/all-music-key-signatures-donuts.svg)|
+|:---|:---|
+
+### [Figure. All music key signatures 全ての音楽の調号](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
 
 ---
 
