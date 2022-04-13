@@ -1,20 +1,61 @@
-# Dream Database 💤
+# 💤 Dream Database
 
-### Profile 😆
+### 😆 Profile
 
 |Nationality|Occupation|
 |:---|:---|
 |Japan|Programmer|
 
+### 📄 Sheet List
+
+|Sheet Name|表名|Tab-separated values|
+|:---|:---|:---|
+|story|📝物語|story.tsv|
+|fiscal-year|📅年度|[fiscal-year.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)|
+|famous-people|🤴有名人|[famous-people.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/famous-people.tsv)|
+|animal|🐍生物|[animal.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal.tsv)|
+|animal-classification|🐍生物グループ|[animal-classification.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)|
+|fictitious-people.tsv|👺キャラクター|fictitious-people.tsv|
+|pokemon|🐣ポケモン|[pokemon.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon.tsv)|
+|pokemon-region|🐣ポケモングループ|[pokemon-region.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)|
+|place|🏕場所|place.tsv|
+|sum-total|➕合計|[sum-total.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sum-total.tsv)|
+|music|🎼音楽|music.tsv|
+
 ---
 
-# Graph 📈
+# 📈 Graph 図
 
-## Dreams 💭
+## 💭 Dreams & Days to dream 夢数と夢日数
+
+### 🖥️ Source code ソースコード
+
+|Name|Variable|Source code|
+|:---|:---|:---|
+|Dreams|fiscal-year.dreams|=COUNTIF(story.fiscal-year-list, fiscal-year.fiscal-year)|
+|Days to dream|fiscal-year.days-to-dream|=COUNTA(UNIQUE(FILTER(story.date-list, story.fiscal-year-list=fiscal-year.fiscal-year)))|
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
 
 ### [Figure. Dreams & Days to dream 夢数と夢日数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+---
+
+## 📝 Word count 文字数
+
+### 🖥️ Source code ソースコード
+
+|Name|Variable|Source code|
+|:---|:---|:---|
+|Dream Characters|word-count.word-count|=COUNT(FILTER(story.word-count-list, story.word-count-list > word-count.word-count-min, story.word-count-list <= word-count.word-count-max))|
+|Word count|fiscal-year.word-count|=SUM(FILTER(story.word-count-list, story.fiscal-year-list=fiscal-year.fiscal-year))|
+|Average Word count|fiscal-year.average-word-count|=fiscal-year.word-count/fiscal-year.dreams|
+
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-15-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-25-characters.svg)|
+|:---|:---|
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-50-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-100-characters.svg)|
+
+### Figure. Dream Characters 夢の文字数
 
 |![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count.svg)|![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count-log-scale.svg)|
 |:---|:---|
@@ -24,6 +65,20 @@
 ![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/average-word-count.svg)
 
 ### [Figure. Average word count 平均文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2013.svg)|
+|:---|:---|
+|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2018.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2020.svg)|
+
+### Figure. Word count in story and year 物語文字数と年
+
+![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-rank.svg)
+
+### Figure. Word count in story and rank 物語文字数と順位
+
+---
+
+## 📅 Day-of-week 曜日
 
 |![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams-per-day-of-the-week.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week.svg)|
 |:---|:---|
@@ -43,27 +98,7 @@
 
 ---
 
-## Story 📝
-
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-15-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-25-characters.svg)|
-|:---|:---|
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-50-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-100-characters.svg)|
-
-### Figure. Dream Characters 夢の文字数
-
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2013.svg)|
-|:---|:---|
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2018.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2020.svg)|
-
-### Figure. Word count in story and year 物語文字数と年
-
-![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-rank.svg)
-
-### Figure. Word count in story and rank 物語文字数と順位
-
----
-
-## Real people 🧑
+## 🧑 Real people 実在人物
 
 |![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people.svg)|![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-log-scale.svg)|
 |:---|:---|
@@ -76,7 +111,7 @@
 
 ---
 
-## Animal 🐍
+## 🐍 Animal 生き物
 
 ![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-animal-appearing.svg)
 
@@ -92,7 +127,7 @@
 
 ---
 
-## Fictitious people 👺
+## 👺 Fictitious people キャラクター(架空の人物)
 
 |![fictitious people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-fictitious-people-appearing.svg)|![probability](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-appearance.svg)|
 |:---|:---|
@@ -101,7 +136,7 @@
 
 ---
 
-## Pokémon 🐣
+## 🐣 Pokémon ポケモン
 
 ![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/pokemon-related-dreams-per-dream.svg)
 
@@ -114,7 +149,7 @@
 
 ---
 
-## Music 🎼
+## 🎼 Music 音楽
 
 ![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/musical-dreams.svg)
 
@@ -136,7 +171,7 @@
 
 ---
 
-## Dream diary continuation years (as of September 2021) 📜
+## 📜 Dream diary continuation years (as of September 2021) 夢日記の継続年数（2021年9月現在）
 
 The first dream diary I wrote was the dream of April 6, 2007 (at least this dream is the oldest extant dream diary I wrote). Considering this day as a starting point, it has been 14 years since I started keeping a dream diary.
 
@@ -146,8 +181,6 @@ Let's calculate the dream diary history from the first day when you start to con
 
 In summary, the dream diary history is five and a half years in the narrow sense and 14 years in the broadest sense.
 
-## 夢日記の継続年数（2021年9月現在） 📜
-
 私が初めて書き記した夢日記は2007年4月6日の夢でした（少なくとも、この夢が私の書いた現存する最古の夢日記となります）。この日を起点に考えると私は夢日記を付け始めてから14年も経過したことになります。
 
 しかし、その後の2008年、2010年から2012年の期間は一度も夢が記録されていません。そのため、私は夢日記を14年も続けているとは言い難いです。
@@ -156,28 +189,24 @@ In summary, the dream diary history is five and a half years in the narrow sense
 
 まとめると、夢日記歴は狭義だと5年半、最広義だと14年となります。
 
-## About the music that played in my dream 🎵
+## 🎵 About the music that played in my dream 夢で流れた音楽について
 
 I sometimes have music playing in my dreams. I categorize the music that plays in my dreams into two types. One is music that I know, and the other is music that I don't know. I can understand that the music I know is stored in my brain, but where does the music I don't know come from?
 
 I have compiled the unknown songs played in my dream as music score data. The score data is available in musicxml format. [Please feel free to send me an issue if you have any other data format that you would like to see.](https://github.com/Asuimin/dream-database/issues)
-
-## 夢で流れた音楽について 🎵
 
 私はたまに夢で音楽が流れることがあります。私は夢で流れる音楽を2種類に分類しています。それは知っている曲と知らない曲の2種類です。知っている曲が流れるのはその曲が脳に記憶されているとなんとなく理解が出来ますが、知らない曲は一体どこから生成されているのでしょうか。
 
 夢で流れた知らない曲を楽譜データとしてまとめてあります。楽譜データはmusicxml形式で公開しています。他にあると嬉しいデータ形式などがありましたらお気軽にIssueを飛ばしてください。
 
 
-## About lucid dreaming 🧠
+## 🧠 About lucid dreaming 明晰夢について
 
 I first learned about lucid dreaming on Monday, April 6, 2015 at 8:17 am. I kept a dream diary before I knew lucid dreaming (at least 18 dreams have been recorded by April 6, 2015).
 
 Records show that I have lucid dreaming at least twice. It is recorded that both of them were scary dreams. In a scary dream, I realized that it was a dream and was trying to wake up from it as soon as possible.
 
 Therefore, I have no good memories of lucid dreaming.
-
-# 明晰夢について 🧠
 
 私が初めて明晰夢を知ったのは2015年4月6日（月）の午前8時17分です。私は明晰夢を知る前から夢日記をつけていました（少なくとも2015年4月6日までに18件の夢の記録があります）。
 
@@ -187,17 +216,11 @@ Therefore, I have no good memories of lucid dreaming.
 
 ---
 
-## [License 💳](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
+## [💳 License ライセンス](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
 
 [>> View License](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
 
 These data are licensed under CC BY 4.0.
-
-Copyright (c) 2007-2022 As Project.
-
-## [ライセンス 💳](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
-
-[>> View License](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
 
 これらのデータはCC BY 4.0でライセンスされています。
 
