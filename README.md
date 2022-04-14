@@ -37,11 +37,11 @@
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
 
-### [Figure. Dreams & Days to dream 夢数と夢日数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Dreams & Days to dream 夢数と夢日数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/month/dreams-per-month.svg)
 
-### Figure. Dreams per month 月ごとの夢数
+### 📈 Figure. Dreams per month 月ごとの夢数
 
 ### Table. Dreams per month 月ごとの夢数
 
@@ -69,7 +69,7 @@
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/month/dreams-per-month-comment.svg)
 
-### Figure. Dreams per month 月ごとの夢数
+### 📈 Figure. Dreams per month 月ごとの夢数
 
 ---
 
@@ -87,26 +87,26 @@
 |:---|:---|
 |![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-50-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-100-characters.svg)|
 
-### Figure. Dream Characters 夢の文字数
+### 📈 Figure. Dream Characters 夢の文字数
 
 |![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count.svg)|![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count-log-scale.svg)|
 |:---|:---|
 
-### [Figure. Word count 文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Word count 文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/average-word-count.svg)
 
-### [Figure. Average word count 平均文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Average word count 平均文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 |![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2013.svg)|
 |:---|:---|
 |![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2018.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2020.svg)|
 
-### Figure. Word count in story and year 物語文字数と年
+### 📈 Figure. Word count in story and year 物語文字数と年
 
 ![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-rank.svg)
 
-### Figure. Word count in story and rank 物語文字数と順位
+### 📈 Figure. Word count in story and rank 物語文字数と順位
 
 ---
 
@@ -115,18 +115,18 @@
 |![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams-per-day-of-the-week.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week.svg)|
 |:---|:---|
 
-### [Figure. Dreams per day of the week 曜日ごとの夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Dreams per day of the week 曜日ごとの夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 |![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-deviation-score.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week-scatter-plot.svg)|
 |:---|:---|
 
-### [Figure. Day-of-week deviation score 曜日ごとの夢数の偏差値](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-### [Figure. Percentage of dreams per day of the week 曜日ごとの夢数割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Day-of-week deviation score 曜日ごとの夢数の偏差値](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Percentage of dreams per day of the week 曜日ごとの夢数割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 |![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-coefficient-of-variation.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-coefficient-of-variation-2013.svg)|
 |:---|:---|
 
-### [Figure. Day-of-week coefficient of variation 曜日ごとの夢数の変動係数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Day-of-week coefficient of variation 曜日ごとの夢数の変動係数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ---
 
@@ -135,11 +135,11 @@
 |![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people.svg)|![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-log-scale.svg)|
 |:---|:---|
 
-### [Figure. Total number of real people who appear in dreams 夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Total number of real people who appear in dreams 夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-per-dream.svg)
 
-### [Figure. Total number of real people who appear in dreams per dream 1夢あたりの夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Total number of real people who appear in dreams per dream 1夢あたりの夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ---
 
@@ -147,15 +147,15 @@
 
 ![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-animal-appearing.svg)
 
-### [Figure. Probability of animal appearing 生物が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Probability of animal appearing 生物が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/probability-of-appearance-by-animal-classification.svg)
 
-### [Figure. Probability of appearance by animal classification 生物の分類ごとの登場確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
+### [📈 Figure. Probability of appearance by animal classification 生物の分類ごとの登場確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
 
 ![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/ratio-of-animal-classification.svg)
 
-### [Figure. Ratio of animal classification 生物の分類ごとの割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
+### [📈 Figure. Ratio of animal classification 生物の分類ごとの割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
 
 ---
 
@@ -164,7 +164,7 @@
 |![fictitious people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-fictitious-people-appearing.svg)|![probability](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-appearance.svg)|
 |:---|:---|
 
-### [Figure. Probability of fictitious people appearing キャラクター（架空の人物）が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Probability of fictitious people appearing キャラクター（架空の人物）が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ---
 
@@ -172,12 +172,12 @@
 
 ![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/pokemon-related-dreams-per-dream.svg)
 
-### [Figure. Pokémon-related dreams per dream 1夢あたりのポケモン関連の夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Pokémon-related dreams per dream 1夢あたりのポケモン関連の夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 |![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/pokemon/pokemon-appearance-ratios-for-each-region.svg)|![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/pokemon/pokemon-appearance-ratios-for-each-region-donuts.svg)|
 |:---|:---|
 
-### [Figure. Pokémon appearance ratios for each region 各地方のポケモンの出現率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)
+### [📈 Figure. Pokémon appearance ratios for each region 各地方のポケモンの出現率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)
 
 ---
 
@@ -185,21 +185,21 @@
 
 ![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/musical-dreams.svg)
 
-### [Figure. Musical dreams 音楽夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+### [📈 Figure. Musical dreams 音楽夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
 
 ![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/percentage-of-key.svg)
 
-### [Figure. Percentage of key 夢で流れた音楽の調の割合](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
+### [📈 Figure. Percentage of key 夢で流れた音楽の調の割合](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
 
 |![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/music-with-a-fixed-key-signature.svg)|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/music-with-a-fixed-key-signature-donuts.svg)|
 |:---|:---|
 
-### [Figure. Music with a fixed key signature 調号が確定した音楽](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
+### [📈 Figure. Music with a fixed key signature 調号が確定した音楽](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
 
 |![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/all-music-key-signatures.svg)|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/all-music-key-signatures-donuts.svg)|
 |:---|:---|
 
-### [Figure. All music key signatures 全ての音楽の調号](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
+### [📈 Figure. All music key signatures 全ての音楽の調号](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
 
 ---
 
