@@ -31,7 +31,7 @@ flowchart TD
   story.wake-up-date --"=YEAR(x)"--> story.year
   story.story --"=LEN(x)"--> story.word-count-in-story
   story.word-count-in-story --"=RANK(x,x-list,0)"--> story.word-count-in-story-rank
-  story.story --"=ARRAYFORMULA(IF(COUNTIF(x,”*”&y-list&”*”)=0,,y-list))"--> story.real-people
+  story.story --"=ARRAYFORMULA(IF(COUNTIF(x,”*”＆y-list＆”*”)=0,,y-list))"--> story.real-people
   real-people.name --"[y]"--> story.real-people
   story.fiscal-year ---> story.grade
 ```
@@ -51,42 +51,48 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  fiscal-year.start-date ---> fiscal-year.fiscal-year ---> fiscal-year.grade
-  fiscal-year.fiscal-year ---> fiscal-year.dreams
-  story.fiscal-year ---> fiscal-year.dreams
-  fiscal-year.fiscal-year ---> fiscal-year.days-to-dream
-  story.fiscal-year ---> fiscal-year.days-to-dream
-  story.wake-up-date ---> fiscal-year.days-to-dream
-  fiscal-year.fiscal-year ---> fiscal-year.word-count-in-story
-  story.fiscal-year ---> fiscal-year.word-count-in-story
-  story.word-count-in-story ---> fiscal-year.word-count-in-story
+  fiscal-year.start-date --"=YEAR(x)"--> fiscal-year.fiscal-year --> fiscal-year.grade
+  fiscal-year.fiscal-year --"=COUNTIF(y-list,x)"--> fiscal-year.dreams
+  story.fiscal-year --"[y]"--> fiscal-year.dreams
+  fiscal-year.fiscal-year --"[z]"--> fiscal-year.days-to-dream
+  story.fiscal-year --"[y]"--> fiscal-year.days-to-dream
+  story.wake-up-date --"=COUNTA(UNIQUE(FILTER(x,y-list=z)))"--> fiscal-year.days-to-dream
+  fiscal-year.fiscal-year --"[z]"--> fiscal-year.word-count-in-story
+  story.fiscal-year --"[y]"--> fiscal-year.word-count-in-story
+  story.word-count-in-story --"=SUM(FILTER(x,y-list=z))"--> fiscal-year.word-count-in-story
+```
+
+```mermaid
+flowchart TD
+  fiscal-year.start-date(開始日) --"=YEAR(x)"--> fiscal-year.fiscal-year(年度) --> fiscal-year.grade(学年)
+  fiscal-year.fiscal-year(年度) --"=COUNTIF(y-list,x)"--> fiscal-year.dreams(夢数)
+  story.fiscal-year(物語の年度) --"[y]"--> fiscal-year.dreams(夢数)
+  fiscal-year.fiscal-year(年度) --"[z]"--> fiscal-year.days-to-dream(夢日数)
+  story.fiscal-year(物語の年度) --"[y]"--> fiscal-year.days-to-dream(夢日数)
+  story.wake-up-date(物語の起床時刻) --"=COUNTA(UNIQUE(FILTER(x,y-list=z)))"--> fiscal-year.days-to-dream(夢日数)
+  fiscal-year.fiscal-year(年度) --"[z]"--> fiscal-year.word-count-in-story(物語文字数)
+  story.fiscal-year(物語の年度) --"[y]"--> fiscal-year.word-count-in-story(物語文字数)
+  story.word-count-in-story(物語の物語文字数) --"=SUM(FILTER(x,y-list=z))"--> fiscal-year.word-count-in-story(物語文字数)
 ```
 
 ## 🐍 animal 生き物
 
 ```mermaid
 flowchart TD
-  story.animal ---> animal.name
-  story.animal ---> animal.appearance
-  animal.name ---> animal.appearance
-  story.animal ---> animal.date-of-appearance
-  animal.name ---> animal.date-of-appearance
-  story.wake-up-date ---> animal.date-of-appearance
-  story.animal ---> uuid-of-appearance
-  animal.name ---> uuid-of-appearance
-  story.uuid ---> uuid-of-appearance
+  story.animal --"=UNIQUE(TRANSPOSE(SPLIT(TEXTJOIN(”/”,,x-list),”/”)))"--> animal.name
+  story.animal --"=COUNTIF(x-list,”*/”＆y＆”/*”)"--> animal.appearance
+  animal.name --"[y]"--> animal.appearance
+  story.animal --"[z]"--> animal.date-of-appearance
+  animal.name --"[y]"--> animal.date-of-appearance
+  story.wake-up-date --"=X(x,y,z)=TEXTJOIN(” ”,,FILTER(x-list,COUNTIFS(z-list,z-list,z-list,”*/”＆y＆”/*”)))"--> animal.date-of-appearance
+  story.animal --"[z]"--> uuid-of-appearance
+  animal.name --"[y]"--> uuid-of-appearance
+  story.uuid --"=X(x,y,z)"--> uuid-of-appearance
 ```
 
 ---
 
 ## 💭 Dreams & Days to dream 夢数と夢日数
-
-### 🖥️ Source code ソースコード
-
-|Name|Variable|Source code|
-|:---|:---|:---|
-|Dreams|fiscal-year.dreams|=COUNTIF(story.fiscal-year-list, fiscal-year.fiscal-year)|
-|Days to dream|fiscal-year.days-to-dream|=COUNTA(UNIQUE(FILTER(story.date-list, story.fiscal-year-list=fiscal-year.fiscal-year)))|
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
 
