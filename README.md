@@ -22,9 +22,62 @@
 |sum-total|➕合計|[sum-total.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sum-total.tsv)|
 |music|🎼音楽|music.tsv|
 
----
+## 📝 story 物語
 
-# 📈 Graph 図
+```mermaid
+flowchart TD
+  story.wake-up-date --"=TEXT(x,”ddd”)"--> story.wake-up-day-of-the-week
+  story.wake-up-date --"=YEAR(EDATE(x,-3))"--> story.fiscal-year
+  story.wake-up-date --"=YEAR(x)"--> story.year
+  story.story --"=LEN(x)"--> story.word-count-in-story
+  story.word-count-in-story --"=RANK(x,x-list,0)"--> story.word-count-in-story-rank
+  story.story --"=ARRAYFORMULA(IF(COUNTIF(x,”*”&y-list&”*”)=0,,y-list))"--> story.real-people
+  real-people.name --"[y]"--> story.real-people
+  story.fiscal-year ---> story.grade
+```
+
+```mermaid
+flowchart TD
+  story.wake-up-time
+  story.post-date
+  story.post-time
+  story.data-registration-date
+  story.animal
+  story.fictitious-people
+  story.uuid
+```
+
+## 📅 fiscal-year 年度
+
+```mermaid
+flowchart TD
+  fiscal-year.start-date ---> fiscal-year.fiscal-year ---> fiscal-year.grade
+  fiscal-year.fiscal-year ---> fiscal-year.dreams
+  story.fiscal-year ---> fiscal-year.dreams
+  fiscal-year.fiscal-year ---> fiscal-year.days-to-dream
+  story.fiscal-year ---> fiscal-year.days-to-dream
+  story.wake-up-date ---> fiscal-year.days-to-dream
+  fiscal-year.fiscal-year ---> fiscal-year.word-count-in-story
+  story.fiscal-year ---> fiscal-year.word-count-in-story
+  story.word-count-in-story ---> fiscal-year.word-count-in-story
+```
+
+## 🐍 animal 生き物
+
+```mermaid
+flowchart TD
+  story.animal ---> animal.name
+  story.animal ---> animal.appearance
+  animal.name ---> animal.appearance
+  story.animal ---> animal.date-of-appearance
+  animal.name ---> animal.date-of-appearance
+  story.wake-up-date ---> animal.date-of-appearance
+  story.animal ---> uuid-of-appearance
+  animal.name ---> uuid-of-appearance
+  story.uuid ---> uuid-of-appearance
+```
+
+---
 
 ## 💭 Dreams & Days to dream 夢数と夢日数
 
