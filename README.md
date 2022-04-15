@@ -98,8 +98,8 @@ flowchart TD
 
 |Portrait painting<br>人物画|Summary 概要|
 |:---|:---|
-|![Alexander](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/Alexander-360px.png)|Alexander アレキサンダー<br>Buddy 親友<br><br>　友達の中でも最強を誇る登場数。今後、彼の登場数を超える友達は現れないと思われる。2020年度まではサムと登場数を競い合うライバルだったが、2021年度は圧倒的な差で勝利している。友達の中では2016年度、2017年度(同率1位)、2018年度、2020年度(同率1位)、2021年度の登場数が1位。|
-|![Sam](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/Sam-360px.png)|Sam サム<br>Buddy 親友<br><br>2020年度まではアレキサンダーと登場数を競い合うライバルだった。友達の中では2014年度、2015年度、2017年度(同率1位)、2019年度、2020年度(同率1位)の登場数が1位。|
+|![Alexander](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/Alexander-360px.png)|Alexander アレキサンダー - Buddy 親友<br><br>He has the strongest number of appearances among his friends. Until FY2020, he and Sam were rivals in the number of appearances, but in FY2021, he won by an overwhelming margin. Among his friends, he has the highest number of appearances in FY 2016, FY 2017 (tied for first place), FY 2018, FY 2020 (tied for first place), and FY 2021.<br>　友達の中でも最強を誇る登場数。今後、彼の登場数を超える友達は現れないと思われる。2020年度まではサムと登場数を競い合うライバルだったが、2021年度は圧倒的な差で勝利している。友達の中では2016年度、2017年度(同率1位)、2018年度、2020年度(同率1位)、2021年度の登場数が1位。|
+|![Sam](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/Sam-360px.png)|Sam サム - Buddy 親友<br><br>He was a competitor with Alexander for the number of appearances until FY2020. Among friends, he ranked first in appearances in FY 2014, FY 2015, FY 2017 (tied for first), FY 2019, and FY 2020 (tied for first).<br>　2020年度まではアレキサンダーと登場数を競い合うライバルだった。友達の中では2014年度、2015年度、2017年度(同率1位)、2019年度、2020年度(同率1位)の登場数が1位。|
 
 ---
 
