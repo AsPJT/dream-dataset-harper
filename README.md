@@ -92,6 +92,14 @@ flowchart TD
 
 ---
 
+## 🤴 Real people appearing in dreams 夢に出てくる実在の人物
+
+|Portrait painting 人物画|Summary 概要|
+|:---|:---|
+|![Carol](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/carol-360px.png)|Carol キャロル<br>テスト|
+
+---
+
 ## 💭 Dreams & Days to dream 夢数と夢日数
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
