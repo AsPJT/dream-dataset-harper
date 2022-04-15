@@ -94,9 +94,12 @@ flowchart TD
 
 ## 🤴 Real people appearing in dreams 夢に出てくる実在の人物
 
-|Portrait painting 人物画|Summary 概要|
+### 😄 Friend 友達
+
+|Portrait painting<br>人物画|Summary 概要|
 |:---|:---|
-|![Carol](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/carol-360px.png)|Carol キャロル<br>テスト|
+|![Alexander](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/Alexander-360px.png)|Alexander アレキサンダー<br>Buddy 親友<br><br>　友達の中でも最強を誇る登場数。今後、彼の登場数を超える友達は現れないと思われる。2020年度まではサムと登場数を競い合うライバルだったが、2021年度は圧倒的な差で勝利している。友達の中では2016年度、2017年度(同率1位)、2018年度、2020年度(同率1位)、2021年度の登場数が1位。|
+|![Sam](https://github.com/Asuimin/dream-dataset-harper/blob/main/image/real-people/Sam-360px.png)|Sam サム<br>Buddy 親友<br><br>2020年度まではアレキサンダーと登場数を競い合うライバルだった。友達の中では2014年度、2015年度、2017年度(同率1位)、2019年度、2020年度(同率1位)の登場数が1位。|
 
 ---
 
