@@ -1,6 +1,6 @@
-(Update 2022/04/11) 生物名 name	name	登場回数 appearance (auto)	登場日 date of appearance (auto)	登場日UUID UUID of appearance (auto)
+(Update 2022/04/19) 生物名 Name	Name	登場回数 Appearance	登場日 Date of appearance	登場日UUID UUID of appearance
 白鳥(鳥類)	Swan (birds)	1	2007/04/06	1095a273-7b1a-7b19-3296-1717df8546d6
-無し	null	1328		
+無し	null	1343		
 蛙(両生類)	Frog (amphibian)	3	2016/08/15 2019/10/12 2022/03/24	9b5e2a22-b7b8-210d-8d8d-7eef55a30286 e8340601-c5b5-1af9-0df3-7dca05d05e91 4aae1ed6-aec6-5703-89a2-29d35a43389a
 セミの幼虫(虫)	Cicada larvae (insect)	1	2016/08/18	a3d4bf08-12fe-5321-455d-cbdb7e8cd649
 北アメリカの魚(魚類)	North American Fish (fish)	1	2017/01/06	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
@@ -77,3 +77,4 @@
 豚(哺乳類)	Pig (mammal)	1	2022/02/08	cc2de149-a276-cbb3-6c1b-862c21e9ff17
 コウモリ(哺乳類)	Bat (mammal)	1	2022/02/27	7dc0a642-89ef-0a89-31ef-ef48b2104c7e
 大きいネコ科の動物(哺乳類)	Large cat (mammal)	1	2022/04/02	bc9d8744-3cf3-52b9-0370-b3b3a3fa030a
+海外の黒いカブトムシのような甲虫(虫)	Black beetles abroad (insect)	1	2022/04/12	5bcf867c-7e8c-4dd3-e358-cd15e643c07a
