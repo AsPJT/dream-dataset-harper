@@ -1,11 +1,11 @@
-全国番号 No	名前 Japanese name	登場回数 number of occurrence (auto)	登場日 date of occurrence (auto)	タイプ1 type1	タイプ2 type2	type1 (auto)	type2 (auto)	地方 region	region
+全国番号 No	名前 Japanese name	登場回数 appearance (auto)	登場日 date of appearance (auto)	タイプ1	タイプ2	type1 (auto)	type2 (auto)	地方 region	region
+393	ポッチャマ	3	2020/11/27 2021/07/20 2022/04/24	みず		Water		シンオウ	Sinnoh
 493	アルセウス	3	2021/01/24 2021/09/29 2021/11/14	ノーマル		Normal		シンオウ	Sinnoh
 25	ピカチュウ	2	2020/11/27 2022/03/29	でんき		Electric		カントー	Kanto
-94	ゲンガー	2	2017/1/14 2021/07/18	ゴースト	どく	Ghost	Poison	カントー	Kanto
+94	ゲンガー	2	2017/01/14 2021/07/18	ゴースト	どく	Ghost	Poison	カントー	Kanto
 151	ミュウ	2	2021/12/02 2022/01/14	エスパー		Psychic		カントー	Kanto
 202	ソーナンス	2	2018/10/24 2021/04/03	エスパー		Psychic		ジョウト	Johto
 258	ミズゴロウ	2	2020/12/13 2021/07/18	みず		Water		ホウエン	Hoenn
-393	ポッチャマ	2	2020/11/27 2021/07/20	みず		Water		シンオウ	Sinnoh
 12	バタフリー	1	2018/10/24	むし	ひこう	Bug	Flying	カントー	Kanto
 52	ニャース	1	2022/03/12	ノーマル		Normal		カントー	Kanto
 58	ガーディ	1	2022/02/27	ほのお		Fire		カントー	Kanto
@@ -13,13 +13,13 @@
 68	カイリキー	1	2019/10/14	かくとう		Fighting		カントー	Kanto
 75	ゴローン	1	2022/03/12	いわ	じめん	Rock	Ground	カントー	Kanto
 77	ポニータ	1	2022/02/27	ほのお		Fire		カントー	Kanto
-95	イワーク	1	2017/2/19	いわ	じめん	Rock	Ground	カントー	Kanto
+95	イワーク	1	2017/02/19	いわ	じめん	Rock	Ground	カントー	Kanto
 102	タマタマ	1	2020/04/08	くさ	エスパー	Grass	Psychic	カントー	Kanto
-114	モンジャラ	1	2017/2/5	くさ		Grass		カントー	Kanto
+114	モンジャラ	1	2017/02/05	くさ		Grass		カントー	Kanto
 115	ガルーラ	1	2021/05/23	ノーマル		Normal		カントー	Kanto
 123	ストライク	1	2020/12/13	むし	ひこう	Bug	Flying	カントー	Kanto
 129	コイキング	1	2018/10/20	みず		Water		カントー	Kanto
-133	イーブイ	1	2017/1/14	ノーマル		Normal		カントー	Kanto
+133	イーブイ	1	2017/01/14	ノーマル		Normal		カントー	Kanto
 150	ミュウツー	1	2021/08/19	エスパー		Psychic		カントー	Kanto
 187	ハネッコ	1	2022/01/30	くさ	ひこう	Grass	Flying	ジョウト	Johto
 188	ポポッコ	1	2022/01/30	くさ	ひこう	Grass	Flying	ジョウト	Johto
@@ -40,6 +40,7 @@
 369	ジーランス	1	2020/08/17	みず	いわ	Water	Rock	ホウエン	Hoenn
 383	グラードン	1	2021/06/06	じめん		Ground		ホウエン	Hoenn
 385	ジラーチ	1	2021/07/20	はがね	エスパー	Steel	Psychic	ホウエン	Hoenn
+388	ハヤシガメ	1	2022/04/24	くさ		Grass		シンオウ	Sinnoh
 397	ムクバード	1	2020/10/09	ノーマル	ひこう	Normal	Flying	シンオウ	Sinnoh
 422	カラナクシ	1	2022/01/11	みず		Water		シンオウ	Sinnoh
 452	ドラピオン	1	2020/01/02	どく	あく	Poison	Dark	シンオウ	Sinnoh
