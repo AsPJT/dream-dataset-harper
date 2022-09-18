@@ -1,7 +1,7 @@
 全国番号 No	名前 Japanese name	登場回数 appearance (auto)	登場日 date of appearance (auto)	タイプ1	タイプ2	type1 (auto)	type2 (auto)	地方 region	region
-393	ポッチャマ	3	2020/11/27 2021/07/20 2022/04/24	みず		Water		シンオウ	Sinnoh
-493	アルセウス	3	2021/01/24 2021/09/29 2021/11/14	ノーマル		Normal		シンオウ	Sinnoh
-25	ピカチュウ	2	2020/11/27 2022/03/29	でんき		Electric		カントー	Kanto
+393	ポッチャマ	4	2020/11/27 2021/07/20 2022/04/24 2022/05/27	みず		Water		シンオウ	Sinnoh
+493	アルセウス	4	2021/01/24 2021/09/29 2021/11/14 2022/07/20	ノーマル		Normal		シンオウ	Sinnoh
+25	ピカチュウ	3	2020/11/27 2022/03/29 2022/07/06	でんき		Electric		カントー	Kanto
 94	ゲンガー	2	2017/01/14 2021/07/18	ゴースト	どく	Ghost	Poison	カントー	Kanto
 151	ミュウ	2	2021/12/02 2022/01/14	エスパー		Psychic		カントー	Kanto
 202	ソーナンス	2	2018/10/24 2021/04/03	エスパー		Psychic		ジョウト	Johto
@@ -24,6 +24,7 @@
 187	ハネッコ	1	2022/01/30	くさ	ひこう	Grass	Flying	ジョウト	Johto
 188	ポポッコ	1	2022/01/30	くさ	ひこう	Grass	Flying	ジョウト	Johto
 189	ワタッコ	1	2022/01/30	くさ	ひこう	Grass	Flying	ジョウト	Johto
+218	マグマッグ	1		ほのお		Fire		ジョウト	Johto
 235	ドーブル	1	2022/02/27	ノーマル		Normal		ジョウト	Johto
 238	ムチュール	1	2021/11/15	こおり	エスパー	Ice	Psychic	ジョウト	Johto
 247	サナギラス	1	2021/11/15	いわ	じめん	Rock	Ground	ジョウト	Johto
@@ -43,6 +44,7 @@
 388	ハヤシガメ	1	2022/04/24	くさ		Grass		シンオウ	Sinnoh
 397	ムクバード	1	2020/10/09	ノーマル	ひこう	Normal	Flying	シンオウ	Sinnoh
 422	カラナクシ	1	2022/01/11	みず		Water		シンオウ	Sinnoh
+448	ルカリオ	1		かくとう	はがね	Fighting	Steel	シンオウ	Sinnoh
 452	ドラピオン	1	2020/01/02	どく	あく	Poison	Dark	シンオウ	Sinnoh
 453	グレッグル	1	2021/12/21	どく	かくとう	Poison	Fighting	シンオウ	Sinnoh
 491	ダークライ	1	2021/11/14	あく		Dark		シンオウ	Sinnoh
