@@ -15,7 +15,7 @@
 |famous-people|🤴有名人|[famous-people.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/famous-people.tsv)|
 |animal|🐍生物|[animal.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal.tsv)|
 |animal-classification|🐍生物グループ|[animal-classification.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)|
-|fictitious-people.tsv|👺キャラクター|fictitious-people.tsv|
+|fictitious-people|👺キャラクター|fictitious-people.tsv|
 |pokemon|🐣ポケモン|[pokemon.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon.tsv)|
 |pokemon-region|🐣ポケモングループ|[pokemon-region.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)|
 |place|🏕場所|place.tsv|
