@@ -6,7 +6,10 @@
 |:---|:---|
 |Japan|Programmer|
 
-### 📄 Sheet List
+---
+
+<details>
+<summary>📄 Sheet List</summary>
 
 |Sheet Name|表名|Tab-separated values|
 |:---|:---|:---|
@@ -21,78 +24,10 @@
 |place|🏕場所|place.tsv|
 |sum-total|➕合計|[sum-total.tsv](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sum-total.tsv)|
 |music|🎼音楽|music.tsv|
+</details>
 
-## 📝 story 物語
-
-```mermaid
-flowchart TD
-  story.wake-up-date --"=TEXT(x,”ddd”)"--> story.wake-up-day-of-the-week
-  story.wake-up-date --"=YEAR(EDATE(x,-3))"--> story.fiscal-year
-  story.wake-up-date --"=YEAR(x)"--> story.year
-  story.story --"=LEN(x)"--> story.word-count-in-story
-  story.word-count-in-story --"=RANK(x,x-list,0)"--> story.word-count-in-story-rank
-  story.story --"=ARRAYFORMULA(IF(COUNTIF(x,”*”＆y-list＆”*”)=0,,y-list))"--> story.real-people
-  real-people.name --"[y]"--> story.real-people
-  story.fiscal-year ---> story.grade
-```
-
-```mermaid
-flowchart TD
-  story.wake-up-time
-  story.post-date
-  story.post-time
-  story.data-registration-date
-  story.animal
-  story.fictitious-people
-  story.uuid
-```
-
-## 📅 fiscal-year 年度
-
-```mermaid
-flowchart TD
-  fiscal-year.start-date --"=YEAR(x)"--> fiscal-year.fiscal-year --> fiscal-year.grade
-  fiscal-year.fiscal-year --"=COUNTIF(y-list,x)"--> fiscal-year.dreams
-  story.fiscal-year --"[y]"--> fiscal-year.dreams
-  fiscal-year.fiscal-year --"[z]"--> fiscal-year.days-to-dream
-  story.fiscal-year --"[y]"--> fiscal-year.days-to-dream
-  story.wake-up-date --"=COUNTA(UNIQUE(FILTER(x,y-list=z)))"--> fiscal-year.days-to-dream
-  fiscal-year.fiscal-year --"[z]"--> fiscal-year.word-count-in-story
-  story.fiscal-year --"[y]"--> fiscal-year.word-count-in-story
-  story.word-count-in-story --"=SUM(FILTER(x,y-list=z))"--> fiscal-year.word-count-in-story
-```
-
-```mermaid
-flowchart TD
-  fiscal-year.start-date(開始日) --"=YEAR(x)"--> fiscal-year.fiscal-year(年度) --> fiscal-year.grade(学年)
-  fiscal-year.fiscal-year(年度) --"=COUNTIF(y-list,x)"--> fiscal-year.dreams(夢数)
-  story.fiscal-year(物語の年度) --"[y]"--> fiscal-year.dreams(夢数)
-  fiscal-year.fiscal-year(年度) --"[z]"--> fiscal-year.days-to-dream(夢日数)
-  story.fiscal-year(物語の年度) --"[y]"--> fiscal-year.days-to-dream(夢日数)
-  story.wake-up-date(物語の起床時刻) --"=COUNTA(UNIQUE(FILTER(x,y-list=z)))"--> fiscal-year.days-to-dream(夢日数)
-  fiscal-year.fiscal-year(年度) --"[z]"--> fiscal-year.word-count-in-story(物語文字数)
-  story.fiscal-year(物語の年度) --"[y]"--> fiscal-year.word-count-in-story(物語文字数)
-  story.word-count-in-story(物語の物語文字数) --"=SUM(FILTER(x,y-list=z))"--> fiscal-year.word-count-in-story(物語文字数)
-```
-
-## 🐍 animal 生き物
-
-```mermaid
-flowchart TD
-  story.animal --"=UNIQUE(TRANSPOSE(SPLIT(TEXTJOIN(”/”,,x-list),”/”)))"--> animal.name
-  story.animal --"=COUNTIF(x-list,”*/”＆y＆”/*”)"--> animal.appearance
-  animal.name --"[y]"--> animal.appearance
-  story.animal --"[z]"--> animal.date-of-appearance
-  animal.name --"[y]"--> animal.date-of-appearance
-  story.wake-up-date --"=X(x,y,z)=TEXTJOIN(” ”,,FILTER(x-list,COUNTIFS(z-list,z-list,z-list,”*/”＆y＆”/*”)))"--> animal.date-of-appearance
-  story.animal --"[z]"--> uuid-of-appearance
-  animal.name --"[y]"--> uuid-of-appearance
-  story.uuid --"=X(x,y,z)"--> uuid-of-appearance
-```
-
----
-
-## 🤴 Real people appearing in dreams 夢に出てくる実在の人物
+<details>
+<summary>🤴 Real people appearing in dreams 夢に出てくる実在の人物</summary>
 
 ### 😄 Elementary school friends known between 6-12 ages. 小学校の友達
 
@@ -120,10 +55,10 @@ flowchart TD
 |:---:|:---|
 |Julia ジュリア||
 |Taylor テイラー||
+</details>
 
----
-
-## 💭 Dreams & Days to dream 夢数と夢日数
+<details>
+<summary>💭 Dreams & Days to dream 夢数と夢日数</summary>
 
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams.svg)
 
@@ -160,10 +95,10 @@ flowchart TD
 ![dreams](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/month/dreams-per-month-comment.svg)
 
 ### 📈 Figure. Dreams per month 月ごとの夢数
+</details>
 
----
-
-## 📝 Word count 文字数
+<details>
+<summary>📝 Word count 文字数</summary>
 
 ### 🖥️ Source code ソースコード
 
@@ -197,10 +132,10 @@ flowchart TD
 ![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-rank.svg)
 
 ### 📈 Figure. Word count in story and rank 物語文字数と順位
+</details>
 
----
-
-## 📅 Day-of-week 曜日
+<details>
+<summary>📅 Day-of-week 曜日</summary>
 
 |![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams-per-day-of-the-week.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week.svg)|
 |:---|:---|
@@ -217,10 +152,10 @@ flowchart TD
 |:---|:---|
 
 ### [📈 Figure. Day-of-week coefficient of variation 曜日ごとの夢数の変動係数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+</details>
 
----
-
-## 🧑 Real people 実在人物
+<details>
+<summary>🧑 Real people 実在人物</summary>
 
 |![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people.svg)|![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-log-scale.svg)|
 |:---|:---|
@@ -230,10 +165,10 @@ flowchart TD
 ![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-per-dream.svg)
 
 ### [📈 Figure. Total number of real people who appear in dreams per dream 1夢あたりの夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+</details>
 
----
-
-## 🐍 Animal 生き物
+<details>
+<summary>🐍 Animal 生き物</summary>
 
 ![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-animal-appearing.svg)
 
@@ -246,24 +181,22 @@ flowchart TD
 ![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/ratio-of-animal-classification.svg)
 
 ### [📈 Figure. Ratio of animal classification 生物の分類ごとの割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
+</details>
 
----
-
-## 👺 Fictitious people キャラクター(架空の人物)
+<details>
+<summary>👺 Fictitious people キャラクター(架空の人物)</summary>
 
 |![fictitious people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-fictitious-people-appearing.svg)|![probability](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-appearance.svg)|
 |:---|:---|
 
 ### [📈 Figure. Probability of fictitious people appearing キャラクター（架空の人物）が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+</details>
 
----
-
-## 🐣 Pokémon ポケモン
+<details>
+<summary>🐣 Pokémon ポケモン</summary>
 
 ### Pokémon appearing by July 2022 今までに登場したポケモン（2022年9月19日更新）
 [![pokemon](https://raw.githubusercontent.com/Asuimin/image-archive/80d523c8c2f1ce424d8343fdd5af4a1fd3cf27cc/data/other/pokemon-box-link.svg)](https://github.com/AsPJT/dream-dataset-harper/blob/main/data/pokemon.tsv)
-
----
 
 ![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/pokemon-related-dreams-per-dream.svg)
 
@@ -273,10 +206,10 @@ flowchart TD
 |:---|:---|
 
 ### [📈 Figure. Pokémon appearance ratios for each region 各地方のポケモンの出現率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)
+</details>
 
----
-
-# 🎼 Music 音楽
+<details>
+<summary>🎼 Music 音楽</summary>
 
 ![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/musical-dreams.svg)
 
@@ -296,8 +229,6 @@ flowchart TD
 
 ### [📈 Figure. All music key signatures 全ての音楽の調号](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
 
----
-
 ### 🎵 MIDI list
 
 |Date (YYYY/MM/DD)|MIDI Download|
@@ -307,15 +238,15 @@ flowchart TD
 |2018/08/10|[Download](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sheet-music/2018/0810-02/2018-0810-02.mid?raw=true)|
 |2018/08/12|[Download](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sheet-music/2018/0812-01/2018-0812-01.mid?raw=true)|
 
----
-
 ### 🎼 Musical Score
 
 |![musical score 1](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/sheet-music/all-decoration/DreamAll-1.png)|![musical score 2](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/sheet-music/all-decoration/DreamAll-2.png)|
 |:---|:---|
 |![musical score 3](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/sheet-music/all-decoration/DreamAll-3.png)||
+</details>
 
----
+<details>
+<summary>🧠 Discussion 考察</summary>
 
 ## 📜 Dream diary continuation years (as of September 2021) 夢日記の継続年数（2021年9月現在）
 
@@ -359,10 +290,10 @@ Therefore, I have no good memories of lucid dreaming.
 記録によると私は少なくとも2回、明晰夢を見ています。その2回とも怖い夢だったと記録されています。怖い夢の中で夢だと気づき、いち早く夢から覚めようとしていたのです。
 
 そのため、私は明晰夢に良い思い出がありません。
+</details>
 
----
-
-### 💭 Dream Contributions
+<details>
+<summary>💭 Dream Contributions</summary>
 
 ![2007](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2007.svg)
 ![2009](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2009.svg)
@@ -376,8 +307,9 @@ Therefore, I have no good memories of lucid dreaming.
 ![2020](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2020.svg)
 ![2021](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2021.svg)
 ![2022](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2022.svg)
+</details>
 
----
+[🔃 Flowchart](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/flowchart.md)
 
 ## [💳 License ライセンス](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
 
