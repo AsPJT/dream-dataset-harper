@@ -1,6 +1,7 @@
 # 💤 Dream Database
 
-### 😆 Profile
+<details>
+<summary>😆 Profile</summary>
 
 |Nickname 通称名 : |Harper ハーパー|
 |:---|:---|
@@ -15,8 +16,7 @@
 |Education 教育 : |Bachelor (Computer Science) obtained 2021 学士（情報科学）2021年取得|
 |Occupation 職業 : |Programmer プログラマ|
 |Dream Recall 夢見頻度 : |Almost every morning or more often ほぼ毎朝、またはそれ以上の頻度|
-
----
+</details>
 
 <details>
 <summary>📄 Sheet List</summary>
@@ -321,9 +321,9 @@ Therefore, I have no good memories of lucid dreaming.
 
 [🔃 Flowchart](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/flowchart.md)
 
-## [💳 License ライセンス](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
+---
 
-[>> View License](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
+### [💳 License ライセンス](https://github.com/Asuimin/dream-database/blob/main/LICENSE)
 
 These data are licensed under CC BY 4.0.
 
