@@ -36,6 +36,8 @@
 |music|🎼音楽|music.tsv|
 </details>
 
+[🔃 Flowchart](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/flowchart.md)
+
 <details>
 <summary>🤴 Real people appearing in dreams 夢に出てくる実在の人物</summary>
 
@@ -107,200 +109,21 @@
 ### 📈 Figure. Dreams per month 月ごとの夢数
 </details>
 
-<details>
-<summary>📝 Word count 文字数</summary>
+[📝 Word count 文字数](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/word-count.md)
 
-### 🖥️ Source code ソースコード
+[📅 Day-of-week 曜日](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/day-of-week.md)
 
-|Name|Variable|Source code|
-|:---|:---|:---|
-|Dream Characters|word-count.word-count|=COUNT(FILTER(story.word-count-list, story.word-count-list > word-count.word-count-min, story.word-count-list <= word-count.word-count-max))|
-|Word count|fiscal-year.word-count|=SUM(FILTER(story.word-count-list, story.fiscal-year-list=fiscal-year.fiscal-year))|
-|Average Word count|fiscal-year.average-word-count|=fiscal-year.word-count/fiscal-year.dreams|
+[🧑 Real people 実在人物](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/real-people.md)
 
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-15-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-25-characters.svg)|
-|:---|:---|
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-50-characters.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/dreams-separated-by-every-100-characters.svg)|
+[🐍 Animal 生き物](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/animal.md)
 
-### 📈 Figure. Dream Characters 夢の文字数
+[👺 Fictitious people キャラクター(架空の人物)](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/fictitious-people.md)
 
-|![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count.svg)|![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/word-count-log-scale.svg)|
-|:---|:---|
+[🐣 Pokémon ポケモン](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/pokemon.md)
 
-### [📈 Figure. Word count 文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
+[🎼 Music 音楽](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/music.md)
 
-![word count](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/average-word-count.svg)
-
-### [📈 Figure. Average word count 平均文字数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2013.svg)|
-|:---|:---|
-|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2018.svg)|![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-year-2020.svg)|
-
-### 📈 Figure. Word count in story and year 物語文字数と年
-
-![story](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/story/word-count-in-story-and-rank.svg)
-
-### 📈 Figure. Word count in story and rank 物語文字数と順位
-</details>
-
-<details>
-<summary>📅 Day-of-week 曜日</summary>
-
-|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/dreams-per-day-of-the-week.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week.svg)|
-|:---|:---|
-
-### [📈 Figure. Dreams per day of the week 曜日ごとの夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-deviation-score.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/percentage-of-dreams-per-day-of-the-week-scatter-plot.svg)|
-|:---|:---|
-
-### [📈 Figure. Day-of-week deviation score 曜日ごとの夢数の偏差値](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-### [📈 Figure. Percentage of dreams per day of the week 曜日ごとの夢数割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-coefficient-of-variation.svg)|![day of the week](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/day-of-week-coefficient-of-variation-2013.svg)|
-|:---|:---|
-
-### [📈 Figure. Day-of-week coefficient of variation 曜日ごとの夢数の変動係数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-</details>
-
-<details>
-<summary>🧑 Real people 実在人物</summary>
-
-|![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people.svg)|![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-log-scale.svg)|
-|:---|:---|
-
-### [📈 Figure. Total number of real people who appear in dreams 夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-![real people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/total-number-of-real-people-per-dream.svg)
-
-### [📈 Figure. Total number of real people who appear in dreams per dream 1夢あたりの夢に登場する実在人物の延べ人数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-</details>
-
-<details>
-<summary>🐍 Animal 生き物</summary>
-
-![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-animal-appearing.svg)
-
-### [📈 Figure. Probability of animal appearing 生物が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/probability-of-appearance-by-animal-classification.svg)
-
-### [📈 Figure. Probability of appearance by animal classification 生物の分類ごとの登場確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
-
-![animal](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/animal/ratio-of-animal-classification.svg)
-
-### [📈 Figure. Ratio of animal classification 生物の分類ごとの割合](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/animal-classification.tsv)
-</details>
-
-<details>
-<summary>👺 Fictitious people キャラクター(架空の人物)</summary>
-
-|![fictitious people](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-fictitious-people-appearing.svg)|![probability](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/probability-of-appearance.svg)|
-|:---|:---|
-
-### [📈 Figure. Probability of fictitious people appearing キャラクター（架空の人物）が登場する確率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-</details>
-
-<details>
-<summary>🐣 Pokémon ポケモン</summary>
-
-### Pokémon appearing by July 2022 今までに登場したポケモン（2022年9月19日更新）
-[![pokemon](https://raw.githubusercontent.com/Asuimin/image-archive/80d523c8c2f1ce424d8343fdd5af4a1fd3cf27cc/data/other/pokemon-box-link.svg)](https://github.com/AsPJT/dream-dataset-harper/blob/main/data/pokemon.tsv)
-
-![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/pokemon-related-dreams-per-dream.svg)
-
-### [📈 Figure. Pokémon-related dreams per dream 1夢あたりのポケモン関連の夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-|![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/pokemon/pokemon-appearance-ratios-for-each-region.svg)|![pokemon](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/pokemon/pokemon-appearance-ratios-for-each-region-donuts.svg)|
-|:---|:---|
-
-### [📈 Figure. Pokémon appearance ratios for each region 各地方のポケモンの出現率](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/pokemon-region.tsv)
-</details>
-
-<details>
-<summary>🎼 Music 音楽</summary>
-
-![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/fiscal-year/musical-dreams.svg)
-
-### [📈 Figure. Musical dreams 音楽夢数](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/fiscal-year.tsv)
-
-![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/percentage-of-key.svg)
-
-### [📈 Figure. Percentage of key 夢で流れた音楽の調の割合](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
-
-|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/music-with-a-fixed-key-signature.svg)|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/music-with-a-fixed-key-signature-donuts.svg)|
-|:---|:---|
-
-### [📈 Figure. Music with a fixed key signature 調号が確定した音楽](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
-
-|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/all-music-key-signatures.svg)|![music](https://raw.githubusercontent.com/Asuimin/dream-dataset-harper/main/graph/music/all-music-key-signatures-donuts.svg)|
-|:---|:---|
-
-### [📈 Figure. All music key signatures 全ての音楽の調号](https://github.com/Asuimin/dream-dataset-harper/tree/main/data/sheet-music)
-
-### 🎵 MIDI list
-
-|Date (YYYY/MM/DD)|MIDI Download|
-|:---|:---|
-|2018/04/14|[Download](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sheet-music/2018/0414-01/2018-0414-01.mid?raw=true)|
-|2018/05/20|[Download](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sheet-music/2018/0520-01/2018-0520-01.mid?raw=true)|
-|2018/08/10|[Download](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sheet-music/2018/0810-02/2018-0810-02.mid?raw=true)|
-|2018/08/12|[Download](https://github.com/Asuimin/dream-dataset-harper/blob/main/data/sheet-music/2018/0812-01/2018-0812-01.mid?raw=true)|
-
-### 🎼 Musical Score
-
-|![musical score 1](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/sheet-music/all-decoration/DreamAll-1.png)|![musical score 2](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/sheet-music/all-decoration/DreamAll-2.png)|
-|:---|:---|
-|![musical score 3](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/sheet-music/all-decoration/DreamAll-3.png)||
-</details>
-
-<details>
-<summary>🧠 Discussion 考察</summary>
-
-## 📜 Dream diary continuation years (as of September 2021) 夢日記の継続年数（2021年9月現在）
-
-The first dream diary I wrote was the dream of April 6, 2007 (at least this dream is the oldest extant dream diary I wrote). Considering this day as a starting point, it has been 14 years since I started keeping a dream diary.
-
-However, no dreams have been recorded during the subsequent 2008, 2010-2012 period. Therefore, it is hard to say that I have been keeping a dream diary for 14 years.
-
-Let's calculate the dream diary history from the first day when you start to continue the dream diary. It was December 6, 2015 that I started writing a dream diary more than once a month. Starting from this day, it's been five and a half years since I started keeping a dream diary. It's longer than I expected.
-
-In summary, the dream diary history is five and a half years in the narrow sense and 14 years in the broadest sense.
-
-私が初めて書き記した夢日記は2007年4月6日の夢でした（少なくとも、この夢が私の書いた現存する最古の夢日記となります）。この日を起点に考えると私は夢日記を付け始めてから14年も経過したことになります。
-
-しかし、その後の2008年、2010年から2012年の期間は一度も夢が記録されていません。そのため、私は夢日記を14年も続けているとは言い難いです。
-
-夢日記を継続し始めた最初の日から夢日記歴を算出することにしましょう。1ヶ月に1度以上の頻度で夢日記を書き始めたのが2015年12月6日です。この日を起点に考えると私は夢日記を付け始めてから5年半も経過したことになります。思ったよりも長いです。
-
-まとめると、夢日記歴は狭義だと5年半、最広義だと14年となります。
-
-## 🎵 About the music that played in my dream 夢で流れた音楽について
-
-I sometimes have music playing in my dreams. I categorize the music that plays in my dreams into two types. One is music that I know, and the other is music that I don't know. I can understand that the music I know is stored in my brain, but where does the music I don't know come from?
-
-I have compiled the unknown songs played in my dream as music score data. The score data is available in musicxml format. [Please feel free to send me an issue if you have any other data format that you would like to see.](https://github.com/Asuimin/dream-database/issues)
-
-私はたまに夢で音楽が流れることがあります。私は夢で流れる音楽を2種類に分類しています。それは知っている曲と知らない曲の2種類です。知っている曲が流れるのはその曲が脳に記憶されているとなんとなく理解が出来ますが、知らない曲は一体どこから生成されているのでしょうか。
-
-夢で流れた知らない曲を楽譜データとしてまとめてあります。楽譜データはmusicxml形式で公開しています。他にあると嬉しいデータ形式などがありましたらお気軽にIssueを飛ばしてください。
-
-
-## 🧠 About lucid dreaming 明晰夢について
-
-I first learned about lucid dreaming on Monday, April 6, 2015 at 8:17 am. I kept a dream diary before I knew lucid dreaming (at least 18 dreams have been recorded by April 6, 2015).
-
-Records show that I have lucid dreaming at least twice. It is recorded that both of them were scary dreams. In a scary dream, I realized that it was a dream and was trying to wake up from it as soon as possible.
-
-Therefore, I have no good memories of lucid dreaming.
-
-私が初めて明晰夢を知ったのは2015年4月6日（月）の午前8時17分です。私は明晰夢を知る前から夢日記をつけていました（少なくとも2015年4月6日までに18件の夢の記録があります）。
-
-記録によると私は少なくとも2回、明晰夢を見ています。その2回とも怖い夢だったと記録されています。怖い夢の中で夢だと気づき、いち早く夢から覚めようとしていたのです。
-
-そのため、私は明晰夢に良い思い出がありません。
-</details>
+[🧠 Discussion 考察](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/discussion.md)
 
 <details>
 <summary>💭 Dream Contributions</summary>
@@ -318,8 +141,6 @@ Therefore, I have no good memories of lucid dreaming.
 ![2021](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2021.svg)
 ![2022](https://raw.githubusercontent.com/Asuimin/image-archive/main/data/contributions-graph/v1/2022.svg)
 </details>
-
-[🔃 Flowchart](https://github.com/AsPJT/dream-dataset-harper/blob/main/article/flowchart.md)
 
 ---
 
