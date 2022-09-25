@@ -1,7 +1,7 @@
-(Update 2022/04/23) 生物名 Name	Name	登場回数 Appearance	登場日 Date of appearance	登場日UUID UUID of appearance
+(Update 2022/09/20) Name 生物名	Name	Appearance 登場回数	Date of appearance 登場日	UUID of appearance 登場日UUID
 白鳥(鳥類)	Swan (birds)	1	2007/04/06	1095a273-7b1a-7b19-3296-1717df8546d6
-無し	null	1350		
-蛙(両生類)	Frog (amphibian)	3	2016/08/15 2019/10/12 2022/03/24	9b5e2a22-b7b8-210d-8d8d-7eef55a30286 e8340601-c5b5-1af9-0df3-7dca05d05e91 4aae1ed6-aec6-5703-89a2-29d35a43389a
+無し	null	1573		
+蛙(両生類)	Frog (amphibian)	4	2016/08/15 2019/10/12 2022/03/24 2022/05/08	9b5e2a22-b7b8-210d-8d8d-7eef55a30286 e8340601-c5b5-1af9-0df3-7dca05d05e91 4aae1ed6-aec6-5703-89a2-29d35a43389a d3550bed-9e84-6984-433c-b3d41b1e2cf5
 セミの幼虫(虫)	Cicada larvae (insect)	1	2016/08/18	a3d4bf08-12fe-5321-455d-cbdb7e8cd649
 北アメリカの魚(魚類)	North American Fish (fish)	1	2017/01/06	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
 タテジマキンチャクダイの幼魚(魚類)	Juvenile Emperor angelfish (fish)	1	2017/01/06	14fc6059-7788-abd2-bafc-fcd0f88fa4f7
@@ -22,7 +22,7 @@
 蜜蜂(虫)	Honeybee (insect)	1	2019/03/28	d6561497-006b-dcce-5e88-8d8a41d3bfee
 孔雀のような鳥(鳥類)	Peacock-like bird (birds)	1	2019/04/02	de7016b8-80f1-c7a6-ae30-4880e3d5f554
 蜜柑の木(植物)	Citrus tree (plant)	1	2019/04/10	e91fcadf-5901-8b2c-e591-95f4b6b199b9
-アゲハチョウの幼虫(虫)	Swallowtail butterfly larva (insect)	3	2019/04/10 2020/04/11 2020/09/27	e91fcadf-5901-8b2c-e591-95f4b6b199b9 6c6f3a08-8e1f-7f3d-e689-9ab13adf458e b7f5e2bd-a023-e2fc-5407-babbb42ea816
+アゲハチョウの幼虫(虫)	Swallowtail butterfly larva (insect)	4	2019/04/10 2020/04/11 2020/09/27 2022/08/05	e91fcadf-5901-8b2c-e591-95f4b6b199b9 6c6f3a08-8e1f-7f3d-e689-9ab13adf458e b7f5e2bd-a023-e2fc-5407-babbb42ea816 95dd2745-1899-322d-5af5-4e37da996729
 ラーテル(哺乳類)	Ratel (mammal)	1	2019/04/10	e91fcadf-5901-8b2c-e591-95f4b6b199b9
 犬(哺乳類)	Dog (mammal)	2	2019/04/10 2022/03/24	e91fcadf-5901-8b2c-e591-95f4b6b199b9 4aae1ed6-aec6-5703-89a2-29d35a43389a
 アゲハチョウの蛹(虫)	Swallowtail butterfly pupa (insect)	1	2019/04/10	e91fcadf-5901-8b2c-e591-95f4b6b199b9
@@ -32,7 +32,7 @@
 蜂(虫)	Bee (insect)	1	2020/08/03	8b0fd799-b639-eb15-ef08-e0dfa7b39d16
 別の種類の蜘蛛(虫)	Another kind of spider (insect)	1	2020/08/06	e0681e9b-8dd5-0bb7-0fc2-01915ed5a6ce
 幼虫(虫)	Larvae (insect)	1	2020/08/28	6baed0ec-b813-bec9-7902-78ba5cdc6051
-蚊(虫)	Mosquito (insect)	3	2020/09/09 2021/11/12 2022/01/17	e8f1a23f-8e26-1e1e-4f79-a87c9094bd6d 70ec4cc5-dbb0-206d-f32c-8f0a073de7d3 835917a5-3d0f-2b91-e0e4-75b113886d87
+蚊(虫)	Mosquito (insect)	4	2020/09/09 2021/11/12 2022/01/17 2022/05/08	e8f1a23f-8e26-1e1e-4f79-a87c9094bd6d 70ec4cc5-dbb0-206d-f32c-8f0a073de7d3 835917a5-3d0f-2b91-e0e4-75b113886d87 d3550bed-9e84-6984-433c-b3d41b1e2cf5
 緑色の幼虫(虫)	Green larva (insect)	1	2020/09/23	e312e53e-b99e-56e1-7a6e-ae9d868b8cbd
 馬(哺乳類)	Horse (mammal)	1	2020/11/02	9e002273-8b51-87cd-1d68-4b96f85e83a2
 鳥(鳥類)	Bird (birds)	1	2020/11/06	909cf71b-8afc-b232-aadb-5b4a94e9ae2c
@@ -63,7 +63,7 @@
 象(哺乳類)	Elephant (mammal)	1	2021/09/15	68fc4c52-8fe1-000f-4594-347d80ba983f
 とても大きい魚(魚類)	Very large fish (fish)	1	2021/09/17	732cc896-7654-4aa5-e336-02c39aac94fb
 クワガタのような大きいアゴを持つアリグモ(虫)	An ant spider with a jaw as big as a stag beetle (insect)	1	2021/09/29	d71c61fd-341d-aee5-283b-f3c44284e9b5
-スズメバチ(虫)	Wasp (insect)	1	2021/09/30	f9e471f8-7010-0dcf-4f5b-03e9d530b67f
+スズメバチ(虫)	Wasp (insect)	3	2021/09/30 2022/05/11 2022/06/25	f9e471f8-7010-0dcf-4f5b-03e9d530b67f b48df91e-e2aa-949b-e238-ed25397a479c cd7dbc36-98ff-2755-972f-d836d5d53620
 淡い黄色の虫(虫)	Pale yellow worm (insect)	1	2021/10/05	be2f5bde-fe95-399a-844a-edbd08c6323c
 大きい魚(魚類)	Large fish (fish)	1	2021/10/30	c7c86384-3b3e-b43f-e259-b3db232ce187
 鶏(鳥類)	Chicken (birds)	1	2021/11/04	9cb75eed-4810-12a4-dcd3-485a35c5d7eb
@@ -78,3 +78,24 @@
 コウモリ(哺乳類)	Bat (mammal)	1	2022/02/27	7dc0a642-89ef-0a89-31ef-ef48b2104c7e
 大きいネコ科の動物(哺乳類)	Large cat (mammal)	1	2022/04/02	bc9d8744-3cf3-52b9-0370-b3b3a3fa030a
 海外の黒いカブトムシのような甲虫(虫)	Black beetles abroad (insect)	1	2022/04/12	5bcf867c-7e8c-4dd3-e358-cd15e643c07a
+青色の羽の蛾(虫)		1	44689	d3550bed-9e84-6984-433c-b3d41b1e2cf5
+綺麗な青いトカゲ(爬虫類)		1	44689	d3550bed-9e84-6984-433c-b3d41b1e2cf5
+茶色いキノコ(菌類)		1	44692	b48df91e-e2aa-949b-e238-ed25397a479c
+アゲハチョウ(虫)		1	44700	a7b52723-f587-01e9-eb13-698c67f78745
+ハムスター(哺乳類)		1	44700	a7b52723-f587-01e9-eb13-698c67f78745
+クマバチ(虫)		1	44720	ddd6e4ac-e462-3c70-ab05-f3dbe1bf2dd0
+アシナガバチ(虫)		1	44720	ddd6e4ac-e462-3c70-ab05-f3dbe1bf2dd0
+白い小さな犬(哺乳類)		1	44734	98b07f96-c772-5bc9-a3d1-020357157e9e
+ウツボのように細長い2匹の魚(魚類)		1	44738	8b3c49c2-143f-38fe-db7c-b146ca89260f
+亀の骨(爬虫類)		1	44739	1c8dfd3f-cdfc-5d01-e73b-1fa1a508b8cd
+シャチなどの大型海洋哺乳類(哺乳類)		1	44748	5cd4d052-9506-5fae-ece9-818c5eb0d518
+右手の中指の第二(?)関節に食いつく小さな生物		1	44750	bbd6b75d-f9ef-6c8f-cd3f-bf50516d900c
+寄生虫		1	44801	5f8f1d15-1e35-f5eb-e9ee-92d4be551afd
+緑色の後ろ足が長いバッタのような虫(虫)		1	44801	5f8f1d15-1e35-f5eb-e9ee-92d4be551afd
+翼を広げた大きい鳩(鳥類)		1	44803	bd508cb9-5efd-5145-ea3f-6d547717196c
+鳩(鳥類)		1	44803	bd508cb9-5efd-5145-ea3f-6d547717196c
+甲虫のような昆虫(虫)		1	44805	c5d40cb3-1d5c-91fb-5287-7051c7fa78ff
+クワガタムシ(虫)		1	44805	c5d40cb3-1d5c-91fb-5287-7051c7fa78ff
+玉虫のような緑色が主な色で他に何色か混ざっている光沢のある甲虫(虫)		1	44805	c5d40cb3-1d5c-91fb-5287-7051c7fa78ff
+握り拳くらいの小さな魚(魚類)		1	44814	b22b19b5-6cc4-795b-3220-0b3783302496
+50cm以上のそこそこ大きな魚(魚類)		1	44814	b22b19b5-6cc4-795b-3220-0b3783302496
