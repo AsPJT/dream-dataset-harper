@@ -1,8 +1,8 @@
-index	index_name	name_en	name_ja
-0	sunday	Sunday	日曜日
-1	monday	Monday	月曜日
-2	tuesday	Tuesday	火曜日
-3	wednesday	Wednesday	水曜日
-4	thursday	Thursday	木曜日
-5	friday	Friday	金曜日
-6	saturday	Saturday	土曜日
+index	index_name	uuid	data_type	function	index_maximum	name_en	name_ja	description_en	description_ja	index_address
+0	sunday	b710e8c9-f23a-ccaa-ea72-14901edb592e				Sunday	日曜日			
+1	monday	a4727098-31c4-ff81-674f-ab6332ff32c1				Monday	月曜日			
+2	tuesday	23bc32be-a404-bfa2-6de7-11d2cf89c20e				Tuesday	火曜日			
+3	wednesday	762c65d9-bf75-8b81-808c-48a2a908cfff				Wednesday	水曜日			
+4	thursday	381cb266-100c-3d33-4fef-ae1879aeddc3				Thursday	木曜日			
+5	friday	87c77d58-44fe-e80b-0434-e1e375d3fec2				Friday	金曜日			
+6	saturday	e3dc339c-b84b-f58b-9567-c4314e5e16ad				Saturday	土曜日			
