@@ -1,7 +1,7 @@
 # 💤 Dream Database
-このリポジトリでは、私が15年かけて集めた1,600以上の夢のデータを管理しています。
+このリポジトリでは、私が15年かけて集めた1,700以上の夢のデータを管理しています。
 
-This repository manages data from over 1,600 dreams that I have collected over the past 15 years.
+This repository manages data from over 1,700 dreams that I have collected over the past 15 years.
 
 ---
 
